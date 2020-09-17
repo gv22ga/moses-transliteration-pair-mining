@@ -1,0 +1,1629 @@
+# Sentence pair (1) source length 4 target length 4 alignment score : 3.65546e-06
+a a n g 
+NULL ({ }) ए ({ 1 }) ं ({ 3 }) ग ({ 4 }) र ({ 2 }) 
+# Sentence pair (4) source length 4 target length 5 alignment score : 0.000272641
+a a r o n 
+NULL ({ }) अ ({ 1 2 }) र ({ 3 }) ो ({ 4 }) न ({ 5 }) 
+# Sentence pair (5) source length 3 target length 4 alignment score : 0.000481969
+a b b y 
+NULL ({ }) ए ({ 1 }) ब ({ 2 3 }) ी ({ 4 }) 
+# Sentence pair (7) source length 5 target length 3 alignment score : 0.000629913
+a b s 
+NULL ({ }) ए ({ 1 }) ब ({ 2 }) ी ({ }) ए ({ }) स ({ 3 }) 
+# Sentence pair (8) source length 4 target length 3 alignment score : 0.0430274
+a b s 
+NULL ({ }) ए ({ 1 }) ब ({ 2 }) ् ({ }) स ({ 3 }) 
+# Sentence pair (10) source length 3 target length 3 alignment score : 0.0593776
+a b u 
+NULL ({ }) अ ({ 1 }) ब ({ 2 }) ू ({ 3 }) 
+# Sentence pair (11) source length 6 target length 7 alignment score : 1.50346e-06
+a c a d e m y 
+NULL ({ }) अ ({ 1 }) क ({ 2 }) े ({ 3 5 }) ड ({ 4 }) म ({ 6 }) ी ({ 7 }) 
+# Sentence pair (13) source length 9 target length 11 alignment score : 2.71302e-12
+a c c e s s o r i e s 
+NULL ({ }) ए ({ 1 }) क ({ 2 }) ् ({ }) स ({ 3 }) े ({ 4 }) स ({ 5 6 }) र ({ 7 8 }) ी ({ 9 10 }) ज ({ 11 }) 
+# Sentence pair (15) source length 7 target length 11 alignment score : 6.29958e-14
+a c c e s s o r i e s 
+NULL ({ }) ए ({ 1 }) स ({ 2 3 }) े ({ 4 }) स ({ 5 6 }) र ({ 7 8 }) ी ({ 9 10 }) ज ({ 11 }) 
+# Sentence pair (17) source length 5 target length 3 alignment score : 8.45212e-05
+a c d 
+NULL ({ }) ए ({ 1 }) स ({ 2 }) ी ({ }) ड ({ 3 }) ी ({ }) 
+# Sentence pair (18) source length 5 target length 5 alignment score : 0.00109635
+a c g u y 
+NULL ({ }) अ ({ 1 }) क ({ 2 }) ग ({ 3 }) ु ({ 4 }) इ ({ 5 }) 
+# Sentence pair (19) source length 4 target length 6 alignment score : 1.01568e-06
+a c k b a r 
+NULL ({ }) अ ({ 1 }) क ({ 2 3 }) ब ({ 4 }) र ({ 5 6 }) 
+# Sentence pair (21) source length 5 target length 6 alignment score : 1.33396e-06
+a c t i o n 
+NULL ({ }) ए ({ 1 }) क ({ 2 }) ् ({ }) श ({ 3 4 }) न ({ 5 6 }) 
+# Sentence pair (23) source length 9 target length 10 alignment score : 6.52694e-09
+a c t i v i s i o n 
+NULL ({ }) ए ({ 1 }) क ({ 2 }) ् ({ }) ट ({ 3 }) ि ({ 4 }) व ({ 5 }) े ({ 6 }) श ({ 7 8 }) न ({ 9 10 }) 
+# Sentence pair (26) source length 3 target length 3 alignment score : 0.12565
+a d a 
+NULL ({ }) अ ({ 1 }) ड ({ 2 }) ा ({ 3 }) 
+# Sentence pair (28) source length 6 target length 7 alignment score : 3.29362e-05
+a d m i r a l 
+NULL ({ }) ए ({ 1 }) ड ({ 2 }) म ({ 3 }) ि ({ 4 }) र ({ 5 }) ल ({ 6 7 }) 
+# Sentence pair (30) source length 5 target length 5 alignment score : 9.40587e-05
+a d u l t 
+NULL ({ }) ए ({ 1 }) ड ({ 2 }) ल ({ 4 }) ् ({ 3 }) ट ({ 5 }) 
+# Sentence pair (31) source length 7 target length 9 alignment score : 1.51548e-07
+a d v e n t u r e 
+NULL ({ }) ए ({ 1 }) ड ({ 2 }) व ({ 3 }) े ({ 4 }) ं ({ 5 }) च ({ 6 7 }) र ({ 8 9 }) 
+# Sentence pair (33) source length 7 target length 6 alignment score : 0.000519159
+a f r i c a 
+NULL ({ }) अ ({ 1 }) फ ({ 2 }) ् ({ }) र ({ 3 }) ी ({ 4 }) क ({ 5 }) ा ({ 6 }) 
+# Sentence pair (35) source length 6 target length 3 alignment score : 1.03391e-05
+a f x 
+NULL ({ }) ए ({ 1 }) फ ({ 2 }) ए ({ }) क ({ }) ् ({ }) स ({ 3 }) 
+# Sentence pair (36) source length 5 target length 5 alignment score : 0.00486474
+a g e n t 
+NULL ({ }) ए ({ 1 }) ज ({ 2 }) े ({ 3 }) ं ({ 4 }) ट ({ 5 }) 
+# Sentence pair (38) source length 6 target length 7 alignment score : 5.10375e-07
+a g g u g a i 
+NULL ({ }) अ ({ 1 }) ग ({ 2 3 }) ु ({ 4 }) ग ({ 5 }) ु ({ 6 }) ई ({ 7 }) 
+# Sentence pair (41) source length 4 target length 3 alignment score : 0.0971905
+a h s 
+NULL ({ }) आ ({ 1 }) ह ({ 2 }) ् ({ }) स ({ 3 }) 
+# Sentence pair (42) source length 3 target length 4 alignment score : 0.000313578
+a i l e 
+NULL ({ }) ए ({ 1 }) इ ({ 2 }) ल ({ 3 4 }) 
+# Sentence pair (43) source length 7 target length 6 alignment score : 0.000185728
+a i o l i a 
+NULL ({ }) ए ({ 1 }) य ({ 2 }) ो ({ 3 }) ल ({ 4 }) ि ({ 5 }) य ({ }) ा ({ 6 }) 
+# Sentence pair (46) source length 8 target length 7 alignment score : 0.00020324
+a i r d r o p 
+NULL ({ }) ए ({ 1 }) य ({ 2 }) र ({ 3 }) ड ({ 4 }) ् ({ }) र ({ 5 }) ॉ ({ 6 }) प ({ 7 }) 
+# Sentence pair (47) source length 8 target length 6 alignment score : 5.57293e-07
+a i r f i x 
+NULL ({ }) ए ({ 1 }) य ({ 2 }) र ({ 3 }) फ ({ 4 }) ि ({ 5 }) क ({ }) ् ({ }) स ({ 6 }) 
+# Sentence pair (48) source length 8 target length 8 alignment score : 7.67874e-08
+a i r f o r c e 
+NULL ({ }) ए ({ 1 }) य ({ 2 }) र ({ 3 }) फ ({ 4 }) ो ({ 5 }) र ({ 6 }) ् ({ 8 }) स ({ 7 }) 
+# Sentence pair (51) source length 5 target length 5 alignment score : 0.00135249
+a k e m i 
+NULL ({ }) ए ({ 1 }) क ({ 2 }) े ({ 3 }) म ({ 4 }) ी ({ 5 }) 
+# Sentence pair (53) source length 8 target length 7 alignment score : 5.2585e-05
+a k i z u k i 
+NULL ({ }) अ ({ 1 }) क ({ 2 }) ि ({ 3 }) ज ({ 4 }) ़ ({ }) ु ({ 5 }) क ({ 6 }) ी ({ 7 }) 
+# Sentence pair (57) source length 5 target length 5 alignment score : 0.0107158
+a l a n a 
+NULL ({ }) अ ({ 1 }) ल ({ 2 }) ा ({ 3 }) न ({ 4 }) ा ({ 5 }) 
+# Sentence pair (58) source length 6 target length 5 alignment score : 0.011323
+a l a r m 
+NULL ({ }) अ ({ 1 }) ल ({ 2 }) ा ({ 3 }) र ({ 4 }) ् ({ }) म ({ 5 }) 
+# Sentence pair (61) source length 12 target length 13 alignment score : 2.67916e-12
+a l b e r t o s a u r u s 
+NULL ({ 12 }) अ ({ 1 }) ल ({ 2 }) ् ({ }) ब ({ 3 }) र ({ 4 5 }) ् ({ }) ट ({ 6 }) ो ({ 7 }) स ({ 8 }) ॉ ({ 9 10 }) र ({ 11 }) स ({ 13 }) 
+# Sentence pair (69) source length 4 target length 5 alignment score : 3.48705e-06
+a l i c e 
+NULL ({ }) ए ({ 1 }) ल ({ 2 }) ि ({ 3 }) स ({ 4 5 }) 
+# Sentence pair (71) source length 6 target length 6 alignment score : 0.000984403
+a l i e n s 
+NULL ({ }) ए ({ 1 }) ल ({ 2 }) ि ({ 3 }) य ({ 4 }) ं ({ 5 }) स ({ 6 }) 
+# Sentence pair (76) source length 9 target length 8 alignment score : 5.97814e-05
+a l l s p a r k 
+NULL ({ }) ऑ ({ 1 }) ल ({ 2 3 }) स ({ 4 }) ् ({ }) प ({ 5 }) ा ({ 6 }) र ({ 7 }) ् ({ }) क ({ 8 }) 
+# Sentence pair (78) source length 6 target length 5 alignment score : 2.60277e-05
+a l p h a 
+NULL ({ }) अ ({ 1 }) ल ({ 2 }) ् ({ }) फ ({ 3 4 }) ़ ({ }) ा ({ 5 }) 
+# Sentence pair (82) source length 9 target length 11 alignment score : 6.60788e-12
+a l t e r n a t o r s 
+NULL ({ 9 }) अ ({ 1 }) ल ({ 2 }) ् ({ }) ट ({ 3 }) र ({ 4 5 }) न ({ 6 }) े ({ 7 }) ट ({ 8 }) र ({ 10 11 }) 
+# Sentence pair (87) source length 5 target length 7 alignment score : 3.03762e-06
+a m e r i c a 
+NULL ({ }) अ ({ 1 }) म ({ 2 }) ृ ({ 3 4 5 }) क ({ 6 }) ा ({ 7 }) 
+# Sentence pair (90) source length 6 target length 7 alignment score : 0.000156815
+a m e r i c a 
+NULL ({ }) ए ({ 1 }) म ({ 2 }) र ({ 3 4 }) ि ({ 5 }) क ({ 6 }) ा ({ 7 }) 
+# Sentence pair (93) source length 7 target length 8 alignment score : 1.07995e-05
+a m e r i c a n 
+NULL ({ }) अ ({ 1 }) म ({ 2 }) े ({ 3 }) र ({ 4 }) ि ({ 5 }) क ({ 6 }) न ({ 7 8 }) 
+# Sentence pair (94) source length 7 target length 8 alignment score : 6.20245e-08
+a m e r i c a n 
+NULL ({ }) अ ({ 1 }) म ({ 2 }) े ({ 3 }) र ({ 4 }) ि ({ 5 }) क ({ 6 }) ा ({ 7 8 }) 
+# Sentence pair (96) source length 7 target length 7 alignment score : 0.0048474
+a m i d a l a 
+NULL ({ }) अ ({ 1 }) म ({ 2 }) ि ({ 3 }) ड ({ 4 }) ा ({ 5 }) ल ({ 6 }) ा ({ 7 }) 
+# Sentence pair (97) source length 7 target length 7 alignment score : 0.00165529
+a m i g a m i 
+NULL ({ }) ए ({ 1 }) म ({ 2 }) ि ({ 3 }) ग ({ 4 }) ा ({ 5 }) म ({ 6 }) ी ({ 7 }) 
+# Sentence pair (99) source length 4 target length 4 alignment score : 0.0257121
+a m o k 
+NULL ({ }) ए ({ 1 }) म ({ 2 }) ो ({ 3 }) क ({ 4 }) 
+# Sentence pair (101) source length 5 target length 6 alignment score : 1.97266e-06
+a n a b g i 
+NULL ({ }) अ ({ 1 }) न ({ 2 }) ा ({ 3 }) ब ({ 4 }) ी ({ 5 6 }) 
+# Sentence pair (104) source length 5 target length 6 alignment score : 1.14938e-06
+a n a k i n 
+NULL ({ 3 }) ए ({ 1 }) ं ({ 2 }) क ({ 4 }) ि ({ 5 }) न ({ 6 }) 
+# Sentence pair (107) source length 8 target length 7 alignment score : 0.00102168
+a n d r o i d 
+NULL ({ }) ए ({ 1 }) ं ({ 2 }) ड ({ 3 }) ् ({ }) र ({ 4 }) ॉ ({ 5 }) इ ({ 6 }) ड ({ 7 }) 
+# Sentence pair (109) source length 5 target length 5 alignment score : 0.00315082
+a n g e l 
+NULL ({ }) ए ({ 1 }) ं ({ 2 }) ज ({ 3 }) े ({ 4 }) ल ({ 5 }) 
+# Sentence pair (110) source length 7 target length 7 alignment score : 3.25526e-06
+a n g e l e s 
+NULL ({ }) ए ({ 1 }) ं ({ 2 }) ज ({ 3 }) ि ({ 4 }) ल ({ 5 }) ् ({ 6 }) स ({ 7 }) 
+# Sentence pair (112) source length 7 target length 8 alignment score : 4.27673e-08
+a n g e l i u s 
+NULL ({ }) ए ({ 1 }) ं ({ 2 }) ज ({ 3 }) े ({ 4 }) ल ({ 5 }) ी ({ 6 }) स ({ 7 8 }) 
+# Sentence pair (115) source length 5 target length 6 alignment score : 0.000129617
+a n i m a l 
+NULL ({ }) ए ({ 1 }) न ({ 2 }) ि ({ 3 }) म ({ 4 }) ल ({ 5 6 }) 
+# Sentence pair (118) source length 7 target length 9 alignment score : 7.71617e-08
+a n i m a t i o n 
+NULL ({ }) ए ({ 1 }) न ({ 2 }) ि ({ 3 }) म ({ 4 }) े ({ 5 }) श ({ 6 7 }) न ({ 8 9 }) 
+# Sentence pair (121) source length 4 target length 5 alignment score : 9.22851e-05
+a n i m e 
+NULL ({ }) ए ({ 1 }) न ({ 2 }) ी ({ 3 5 }) म ({ 4 }) 
+# Sentence pair (123) source length 9 target length 9 alignment score : 3.05303e-07
+a n i m e w i l d 
+NULL ({ 5 }) ए ({ 1 }) न ({ 2 }) ि ({ 3 }) म ({ 4 }) व ({ 6 }) ि ({ 7 }) ल ({ 8 }) ् ({ }) ड ({ 9 }) 
+# Sentence pair (126) source length 10 target length 9 alignment score : 1.57796e-07
+a n i m o r p h s 
+NULL ({ }) ए ({ 1 }) न ({ 2 }) ि ({ 3 }) म ({ 4 }) ो ({ 5 }) र ({ 6 }) ् ({ }) फ ({ 7 }) ् ({ 8 }) स ({ 9 }) 
+# Sentence pair (129) source length 5 target length 4 alignment score : 0.0177142
+a n n a 
+NULL ({ }) अ ({ 1 }) न ({ 2 }) ् ({ }) न ({ 3 }) ा ({ 4 }) 
+# Sentence pair (130) source length 3 target length 4 alignment score : 0.00916721
+a n n a 
+NULL ({ }) आ ({ 1 }) न ({ 2 3 }) ा ({ 4 }) 
+# Sentence pair (132) source length 3 target length 5 alignment score : 0.000201086
+a n n i e 
+NULL ({ }) ए ({ 1 }) न ({ 2 3 }) ी ({ 4 5 }) 
+# Sentence pair (134) source length 5 target length 4 alignment score : 0.0171233
+a n t a 
+NULL ({ }) अ ({ 1 }) न ({ 2 }) ् ({ }) त ({ 3 }) ा ({ 4 }) 
+# Sentence pair (139) source length 9 target length 11 alignment score : 8.79592e-11
+a p a t o s a u r u s 
+NULL ({ }) ए ({ 1 }) प ({ 2 }) े ({ 3 }) ट ({ 4 }) ो ({ 5 }) स ({ 6 }) ॉ ({ 7 8 }) र ({ 9 10 }) स ({ 11 }) 
+# Sentence pair (170) source length 7 target length 8 alignment score : 7.06193e-11
+a r m o u r e d 
+NULL ({ 4 }) आ ({ 1 }) र ({ 2 }) ् ({ }) म ({ 3 }) र ({ 6 7 }) ् ({ 5 }) ड ({ 8 }) 
+# Sentence pair (197) source length 5 target length 4 alignment score : 0.0067179
+a s t y 
+NULL ({ }) ए ({ 1 }) स ({ 2 }) ् ({ }) ट ({ 3 }) ी ({ 4 }) 
+# Sentence pair (200) source length 7 target length 7 alignment score : 0.000165743
+a t e l i e r 
+NULL ({ }) ए ({ 1 }) ट ({ 2 }) े ({ 3 }) ल ({ 4 }) ि ({ 5 }) य ({ 6 }) र ({ 7 }) 
+# Sentence pair (203) source length 8 target length 8 alignment score : 0.00108854
+a t l a n t i c 
+NULL ({ }) ए ({ 1 }) ट ({ 2 }) ल ({ 3 }) ा ({ 4 }) ं ({ 5 }) ट ({ 6 }) ि ({ 7 }) क ({ 8 }) 
+# Sentence pair (207) source length 5 target length 3 alignment score : 0.00049305
+a t v 
+NULL ({ }) ए ({ 1 }) ट ({ 2 }) ी ({ }) व ({ 3 }) ी ({ }) 
+# Sentence pair (210) source length 4 target length 4 alignment score : 2.20782e-06
+a u n t 
+NULL ({ 2 }) आ ({ 1 }) ं ({ 3 }) ट ({ 4 }) ी ({ }) 
+# Sentence pair (212) source length 5 target length 6 alignment score : 4.54103e-05
+a u r o r a 
+NULL ({ }) अ ({ 1 2 }) र ({ 3 }) ो ({ 4 }) र ({ 5 }) ा ({ 6 }) 
+# Sentence pair (216) source length 7 target length 9 alignment score : 4.0111e-07
+a u t h e n t i c 
+NULL ({ 2 }) ऑ ({ 1 }) थ ({ 3 4 }) े ({ 5 }) ं ({ 6 }) ट ({ 7 }) ि ({ 8 }) क ({ 9 }) 
+# Sentence pair (221) source length 8 target length 9 alignment score : 2.89417e-06
+a u t o m a t i c 
+NULL ({ 2 }) ऑ ({ 1 }) ट ({ 3 }) ो ({ 4 }) म ({ 5 }) ै ({ 6 }) ट ({ 7 }) ि ({ 8 }) क ({ 9 }) 
+# Sentence pair (226) source length 8 target length 8 alignment score : 5.86422e-06
+a v a n g e r s 
+NULL ({ }) अ ({ 1 }) व ({ 2 }) े ({ 3 }) ं ({ 4 }) ज ({ 5 }) र ({ 6 7 }) ् ({ }) स ({ 8 }) 
+# Sentence pair (231) source length 6 target length 7 alignment score : 3.64283e-05
+a v e n g e r 
+NULL ({ }) ए ({ 1 }) व ({ 2 }) े ({ 3 }) ं ({ 4 }) ज ({ 5 }) र ({ 6 7 }) 
+# Sentence pair (232) source length 8 target length 8 alignment score : 1.24012e-05
+a v e n g e r s 
+NULL ({ }) अ ({ 1 }) व ({ 2 }) े ({ 3 }) ं ({ 4 }) ज ({ 5 }) र ({ 6 7 }) ् ({ }) स ({ 8 }) 
+# Sentence pair (234) source length 6 target length 5 alignment score : 0.00804105
+a w a r d 
+NULL ({ }) अ ({ 1 }) व ({ 2 }) ा ({ 3 }) र ({ 4 }) ् ({ }) ड ({ 5 }) 
+# Sentence pair (236) source length 5 target length 4 alignment score : 1.62261e-05
+a x e l 
+NULL ({ }) ए ({ 1 }) क ({ 2 }) ् ({ }) स ({ 3 }) ल ({ 4 }) 
+# Sentence pair (238) source length 14 target length 15 alignment score : 3.93657e-15
+a y a a n g l o b a l m a r t 
+NULL ({ }) अ ({ 1 }) य ({ 2 }) ा ({ 3 4 }) ं ({ 5 }) ग ({ 6 }) ् ({ }) ल ({ 7 11 }) ो ({ 8 }) द ({ 9 10 }) म ({ 12 }) ा ({ 13 }) र ({ 14 }) ् ({ }) ट ({ 15 }) 
+# Sentence pair (323) source length 6 target length 6 alignment score : 0.0171315
+b a t m a n 
+NULL ({ }) ब ({ 1 }) ै ({ 2 }) ट ({ 3 }) म ({ 4 }) ै ({ 5 }) न ({ 6 }) 
+# Sentence pair (325) source length 6 target length 6 alignment score : 0.000300633
+b a t m e n 
+NULL ({ }) ब ({ 1 }) ै ({ 2 }) ट ({ 3 }) म ({ 4 }) ै ({ 5 }) न ({ 6 }) 
+# Sentence pair (328) source length 6 target length 9 alignment score : 3.01853e-07
+b a t t e r i e s 
+NULL ({ }) ब ({ 1 }) ै ({ 2 }) ट ({ 3 4 }) र ({ 5 6 }) ी ({ 7 8 }) स ({ 9 }) 
+# Sentence pair (335) source length 7 target length 8 alignment score : 8.79212e-06
+b a t w o m a n 
+NULL ({ }) ब ({ 1 }) ै ({ 2 }) ट ({ 3 }) व ({ 4 }) ु ({ 5 }) म ({ 6 }) न ({ 7 8 }) 
+# Sentence pair (345) source length 3 target length 4 alignment score : 0.000484616
+b e a m 
+NULL ({ }) ब ({ 1 }) ी ({ 2 3 }) म ({ 4 }) 
+# Sentence pair (347) source length 9 target length 9 alignment score : 4.51346e-07
+b e a r b r i c k 
+NULL ({ }) ब ({ 1 }) ि ({ 2 }) य ({ 3 }) र ({ 4 }) ब ({ 5 }) ् ({ }) र ({ 6 }) ि ({ 7 }) क ({ 8 9 }) 
+# Sentence pair (353) source length 5 target length 7 alignment score : 1.00767e-06
+b e c k h a m 
+NULL ({ 6 }) ब ({ 1 }) े ({ 2 }) क ({ 3 4 }) ह ({ 5 }) म ({ 7 }) 
+# Sentence pair (357) source length 5 target length 5 alignment score : 0.00234997
+b e l c h 
+NULL ({ }) ब ({ 1 }) े ({ 2 }) ल ({ 3 }) ् ({ }) च ({ 4 5 }) 
+# Sentence pair (360) source length 4 target length 5 alignment score : 0.00412944
+b e l l e 
+NULL ({ }) ब ({ 1 }) े ({ 2 }) ल ({ 3 4 }) े ({ 5 }) 
+# Sentence pair (363) source length 3 target length 3 alignment score : 0.0747938
+b e n 
+NULL ({ }) ब ({ 1 }) े ({ 2 }) न ({ 3 }) 
+# Sentence pair (365) source length 7 target length 8 alignment score : 1.30118e-05
+b e n d a b l e 
+NULL ({ }) ब ({ 1 }) े ({ 2 }) ं ({ 3 }) ड ({ 4 }) े ({ 5 }) ब ({ 6 }) ल ({ 7 8 }) 
+# Sentence pair (426) source length 8 target length 8 alignment score : 0.000160184
+b l e e d i n g 
+NULL ({ }) ब ({ 1 }) ् ({ }) ल ({ 2 }) ी ({ 3 4 }) ड ({ 5 }) ि ({ 6 }) ं ({ 7 }) ग ({ 8 }) 
+# Sentence pair (429) source length 5 target length 4 alignment score : 0.0692815
+b l i p 
+NULL ({ }) ब ({ 1 }) ् ({ }) ल ({ 2 }) ि ({ 3 }) प ({ 4 }) 
+# Sentence pair (430) source length 8 target length 7 alignment score : 0.00033281
+b l i s t e r 
+NULL ({ }) ब ({ 1 }) ् ({ }) ल ({ 2 }) ि ({ 3 }) स ({ 4 }) ् ({ }) ट ({ 5 }) र ({ 6 7 }) 
+# Sentence pair (433) source length 5 target length 5 alignment score : 0.000938732
+b l o c k 
+NULL ({ }) ब ({ 1 }) ् ({ }) ल ({ 2 }) ॉ ({ 3 }) क ({ 4 5 }) 
+# Sentence pair (435) source length 7 target length 6 alignment score : 0.000271854
+b l o c k s 
+NULL ({ }) ब ({ 1 }) ् ({ }) ल ({ 2 }) ॉ ({ 3 }) क ({ 4 5 }) ् ({ }) स ({ 6 }) 
+# Sentence pair (438) source length 4 target length 7 alignment score : 4.66653e-13
+b l o o d e d 
+NULL ({ 4 }) ब ({ 1 }) ् ({ }) ल ({ 2 3 6 }) ड ({ 5 7 }) 
+# Sentence pair (442) source length 7 target length 7 alignment score : 5.08309e-06
+b l u e f i n 
+NULL ({ }) ब ({ 1 }) ् ({ }) ल ({ 2 }) ू ({ 3 4 }) फ ({ 5 }) ि ({ 6 }) न ({ 7 }) 
+# Sentence pair (444) source length 8 target length 8 alignment score : 4.13254e-09
+b l u e z o n e 
+NULL ({ }) ब ({ 1 }) ् ({ }) ल ({ 2 }) ू ({ 3 4 }) ज ({ 5 }) ़ ({ }) ो ({ 6 }) न ({ 7 8 }) 
+# Sentence pair (463) source length 5 target length 5 alignment score : 0.02036
+b o i n g 
+NULL ({ }) ब ({ 1 }) ो ({ 2 }) इ ({ 3 }) ं ({ 4 }) ग ({ 5 }) 
+# Sentence pair (482) source length 5 target length 4 alignment score : 0.0532255
+b o r g 
+NULL ({ }) ब ({ 1 }) ो ({ 2 }) र ({ 3 }) ् ({ }) ग ({ 4 }) 
+# Sentence pair (483) source length 6 target length 6 alignment score : 0.0191747
+b o r i n g 
+NULL ({ }) ब ({ 1 }) ो ({ 2 }) र ({ 3 }) ि ({ 4 }) ं ({ 5 }) ग ({ 6 }) 
+# Sentence pair (486) source length 6 target length 6 alignment score : 0.000317452
+b o s t o n 
+NULL ({ }) ब ({ 1 }) ॉ ({ 2 }) स ({ 3 }) ् ({ }) ट ({ 4 }) न ({ 5 6 }) 
+# Sentence pair (495) source length 9 target length 9 alignment score : 3.24626e-10
+b o w c a s t e r 
+NULL ({ }) ब ({ 1 }) ॉ ({ 2 }) ल ({ 3 }) क ({ 4 }) ो ({ 5 }) स ({ 6 }) ् ({ }) ट ({ 7 }) र ({ 8 9 }) 
+# Sentence pair (504) source length 4 target length 4 alignment score : 0.00321683
+b o y s 
+NULL ({ }) ब ({ 1 }) ॉ ({ 2 }) य ({ 3 }) ज ({ 4 }) 
+# Sentence pair (505) source length 5 target length 4 alignment score : 0.00205754
+b o y s 
+NULL ({ }) ब ({ 1 }) ॉ ({ 2 }) य ({ 3 }) ज ({ 4 }) ़ ({ }) 
+# Sentence pair (511) source length 6 target length 5 alignment score : 0.020565
+b r a n d 
+NULL ({ }) ब ({ 1 }) ् ({ }) र ({ 2 }) ा ({ 3 }) ं ({ 4 }) ड ({ 5 }) 
+# Sentence pair (519) source length 6 target length 5 alignment score : 0.00136483
+b r a w l 
+NULL ({ }) ब ({ 1 }) ् ({ }) र ({ 2 }) ा ({ 3 }) व ({ 4 }) ल ({ 5 }) 
+# Sentence pair (522) source length 6 target length 8 alignment score : 3.4873e-11
+b r a w l e r s 
+NULL ({ }) ब ({ 1 }) ् ({ }) र ({ 2 }) ॉ ({ 3 4 }) ल ({ 5 6 }) र ({ 7 8 }) 
+# Sentence pair (536) source length 6 target length 7 alignment score : 3.70047e-07
+b r i t a i n 
+NULL ({ }) ब ({ 1 }) ् ({ }) र ({ 2 }) ि ({ 3 }) त ({ 4 5 }) न ({ 6 7 }) 
+# Sentence pair (556) source length 5 target length 9 alignment score : 2.76557e-12
+b u b b l e g u m 
+NULL ({ 2 8 }) ब ({ 1 }) ब ({ 3 4 }) ल ({ 5 6 }) ग ({ 7 }) म ({ 9 }) 
+# Sentence pair (563) source length 5 target length 5 alignment score : 1.189e-05
+b u i l d 
+NULL ({ }) ब ({ 1 }) ि ({ 3 }) ल ({ 4 }) ् ({ 2 }) ड ({ 5 }) 
+# Sentence pair (565) source length 8 target length 9 alignment score : 2.60562e-09
+b u i l d a b l e 
+NULL ({ 2 }) ब ({ 1 }) ि ({ 3 }) ल ({ 4 }) ् ({ }) ड ({ 5 }) े ({ 6 }) ब ({ 7 }) ल ({ 8 9 }) 
+# Sentence pair (572) source length 3 target length 4 alignment score : 0.000198948
+b u l l 
+NULL ({ }) ब ({ 1 }) ै ({ 2 }) ल ({ 3 4 }) 
+# Sentence pair (575) source length 5 target length 7 alignment score : 1.17401e-06
+b u l l e t s 
+NULL ({ }) ब ({ 1 }) ु ({ 2 }) ल ({ 3 4 }) े ({ 5 }) ट ({ 6 7 }) 
+# Sentence pair (576) source length 10 target length 11 alignment score : 3.22502e-12
+b u l l e t s t o r m 
+NULL ({ }) ब ({ 1 }) ु ({ 2 }) ल ({ 3 4 }) स ({ 7 }) ् ({ 5 6 }) ट ({ 8 }) ॉ ({ 9 }) र ({ 10 }) ् ({ }) म ({ 11 }) 
+# Sentence pair (641) source length 8 target length 8 alignment score : 3.37114e-06
+c a r n i v a l 
+NULL ({ }) क ({ 1 }) ा ({ 2 }) र ({ 3 }) ् ({ }) न ({ 4 }) ि ({ 5 }) व ({ 6 }) ल ({ 7 8 }) 
+# Sentence pair (648) source length 5 target length 4 alignment score : 5.17382e-06
+c a r s 
+NULL ({ }) क ({ 1 }) ा ({ 2 }) र ({ 3 }) े ({ }) ं ({ 4 }) 
+# Sentence pair (660) source length 6 target length 6 alignment score : 0.00250405
+c a t b o y 
+NULL ({ }) क ({ 1 }) ै ({ 2 }) ट ({ 3 }) ब ({ 4 }) ॉ ({ 5 }) य ({ 6 }) 
+# Sentence pair (667) source length 7 target length 7 alignment score : 2.58863e-05
+c a v a l r y 
+NULL ({ }) क ({ 1 }) ै ({ 2 }) व ({ 3 }) े ({ 4 }) ल ({ 5 }) र ({ 6 }) ी ({ 7 }) 
+# Sentence pair (673) source length 6 target length 6 alignment score : 3.06175e-05
+c e n t e r 
+NULL ({ }) क ({ 1 }) े ({ 2 }) ं ({ 3 }) द ({ 4 }) ् ({ }) र ({ 5 6 }) 
+# Sentence pair (679) source length 7 target length 7 alignment score : 2.23141e-07
+c e n t u r y 
+NULL ({ }) स ({ 1 }) े ({ 2 }) ं ({ 3 }) च ({ 4 }) ु ({ 5 }) र ({ 6 }) ी ({ 7 }) 
+# Sentence pair (690) source length 7 target length 9 alignment score : 6.55676e-09
+c h a m p i o n s 
+NULL ({ }) च ({ 1 2 }) ै ({ 3 }) ं ({ 4 }) प ({ 5 }) ि ({ 6 }) य ({ 7 }) न ({ 8 9 }) 
+# Sentence pair (694) source length 3 target length 4 alignment score : 0.00967142
+c h a n 
+NULL ({ }) च ({ 1 2 }) ा ({ 3 }) न ({ 4 }) 
+# Sentence pair (695) source length 6 target length 10 alignment score : 1.49613e-11
+c h a n c e l l o r 
+NULL ({ }) च ({ 1 2 }) ा ({ 3 }) ं ({ 4 }) स ({ 5 6 }) ल ({ 7 8 }) र ({ 9 10 }) 
+# Sentence pair (713) source length 9 target length 10 alignment score : 1.92698e-06
+c h a r m a n d e r 
+NULL ({ }) च ({ 1 2 }) ा ({ 3 }) र ({ 4 }) ् ({ }) म ({ 5 }) े ({ 6 }) ं ({ 7 }) ड ({ 8 }) र ({ 9 10 }) 
+# Sentence pair (762) source length 10 target length 6 alignment score : 2.18539e-11
+c h r i s t 
+NULL ({ }) क ({ 1 }) ् ({ }) र ({ 3 }) ि ({ 4 }) स ({ 5 }) ् ({ }) च ({ 2 6 }) ि ({ }) य ({ }) न ({ }) 
+# Sentence pair (765) source length 9 target length 10 alignment score : 4.69199e-12
+c h r i s t o p h e 
+NULL ({ 10 }) क ({ 1 }) ् ({ 2 }) र ({ 3 }) ि ({ 4 }) स ({ 5 }) ् ({ }) ट ({ 6 }) ो ({ 7 }) फ ({ 8 9 }) 
+# Sentence pair (772) source length 3 target length 4 alignment score : 0.0150428
+c h u g 
+NULL ({ }) च ({ 1 2 }) ु ({ 3 }) ग ({ 4 }) 
+# Sentence pair (774) source length 4 target length 6 alignment score : 2.39144e-06
+c h u n k y 
+NULL ({ }) च ({ 1 2 3 }) ं ({ 4 }) क ({ 5 }) ी ({ 6 }) 
+# Sentence pair (783) source length 7 target length 5 alignment score : 0.00135219
+c l a r k 
+NULL ({ }) क ({ 1 }) ् ({ }) ल ({ 2 }) ा ({ 3 }) र ({ 4 }) ् ({ }) क ({ 5 }) 
+# Sentence pair (798) source length 6 target length 5 alignment score : 1.71456e-05
+c l i v e 
+NULL ({ }) क ({ 1 }) ् ({ }) ल ({ 2 }) ा ({ 3 }) इ ({ 5 }) व ({ 4 }) 
+# Sentence pair (804) source length 7 target length 6 alignment score : 7.35536e-05
+c l o n e s 
+NULL ({ }) क ({ 1 }) ् ({ }) ल ({ 2 }) ो ({ 3 }) न ({ 4 }) ् ({ 5 }) स ({ 6 }) 
+# Sentence pair (822) source length 3 target length 3 alignment score : 0.0737674
+c o g 
+NULL ({ }) क ({ 1 }) ॉ ({ 2 }) ग ({ 3 }) 
+# Sentence pair (825) source length 4 target length 4 alignment score : 0.0226551
+c o l a 
+NULL ({ }) क ({ 1 }) ो ({ 2 }) ल ({ 3 }) ा ({ 4 }) 
+# Sentence pair (828) source length 4 target length 7 alignment score : 6.65741e-09
+c o l l a r s 
+NULL ({ 5 }) क ({ 1 }) ॉ ({ 2 }) ल ({ 3 4 }) र ({ 6 7 }) 
+# Sentence pair (831) source length 5 target length 8 alignment score : 8.18259e-12
+c o l l e c t a 
+NULL ({ 2 }) क ({ 1 }) ल ({ 3 4 }) े ({ 5 }) स ({ 6 7 }) ा ({ 8 }) 
+# Sentence pair (836) source length 9 target length 11 alignment score : 8.55611e-12
+c o l l e c t i b l e 
+NULL ({ 2 }) क ({ 1 }) ल ({ 3 4 }) े ({ 5 }) क ({ 6 }) ् ({ }) ट ({ 7 }) े ({ 8 }) ब ({ 9 }) ल ({ 10 11 }) 
+# Sentence pair (873) source length 7 target length 12 alignment score : 1.00209e-14
+c o m m i s s i o n e r 
+NULL ({ 2 }) क ({ 1 }) म ({ 3 4 }) ि ({ 5 }) श ({ 6 7 }) ् ({ 8 }) न ({ 9 10 }) र ({ 11 12 }) 
+# Sentence pair (888) source length 11 target length 13 alignment score : 4.22662e-17
+c o n s t r u c t i c o n 
+NULL ({ 2 }) क ({ 1 }) ं ({ 3 }) स ({ 4 }) ् ({ }) ट ({ 5 }) ् ({ 7 }) र ({ 6 }) क ({ 8 }) ् ({ 9 }) श ({ 10 11 }) न ({ 12 13 }) 
+# Sentence pair (896) source length 3 target length 4 alignment score : 6.54393e-05
+c o o k 
+NULL ({ }) क ({ 1 }) ु ({ 2 3 }) क ({ 4 }) 
+# Sentence pair (898) source length 3 target length 4 alignment score : 0.00402575
+c o o p 
+NULL ({ }) क ({ 1 }) ॉ ({ 2 3 }) प ({ 4 }) 
+# Sentence pair (901) source length 6 target length 6 alignment score : 0.000438135
+c o p t e r 
+NULL ({ }) क ({ 1 }) ॉ ({ 2 }) प ({ 3 }) ् ({ }) ट ({ 4 }) र ({ 5 6 }) 
+# Sentence pair (905) source length 7 target length 8 alignment score : 2.33618e-09
+c o r v e t t e 
+NULL ({ }) क ({ 1 }) ा ({ 2 }) र ({ 3 }) ् ({ }) व ({ 4 }) े ({ 5 8 }) ट ({ 6 7 }) 
+# Sentence pair (909) source length 9 target length 7 alignment score : 2.50767e-06
+c o s t u m e 
+NULL ({ }) क ({ 1 }) ॉ ({ 2 }) स ({ 3 }) ् ({ }) ट ({ 4 }) ् ({ }) य ({ 7 }) ू ({ 5 }) म ({ 6 }) 
+# Sentence pair (928) source length 7 target length 7 alignment score : 2.28383e-07
+c r e a t o r 
+NULL ({ }) क ({ 1 }) ् ({ }) र ({ 2 }) ि ({ 3 }) ए ({ 4 }) ट ({ 5 }) र ({ 6 7 }) 
+# Sentence pair (938) source length 5 target length 5 alignment score : 0.000431451
+c r o s s 
+NULL ({ }) क ({ 1 }) ् ({ }) र ({ 2 }) ॉ ({ 3 }) स ({ 4 5 }) 
+# Sentence pair (941) source length 8 target length 10 alignment score : 2.60174e-10
+c r o s s o v e r s 
+NULL ({ 10 }) क ({ 1 }) ् ({ }) र ({ 2 }) ॉ ({ 3 }) स ({ 4 5 }) ओ ({ 6 }) व ({ 7 }) र ({ 8 9 }) 
+# Sentence pair (950) source length 6 target length 4 alignment score : 0.00078319
+c r u z 
+NULL ({ }) क ({ 1 }) ् ({ }) र ({ 2 }) ू ({ 3 }) ज ({ 4 }) ़ ({ }) 
+# Sentence pair (960) source length 5 target length 6 alignment score : 1.28958e-08
+c u s t o m 
+NULL ({ 5 }) क ({ 1 }) स ({ 3 }) ् ({ 2 }) ट ({ 4 }) म ({ 6 }) 
+# Sentence pair (976) source length 6 target length 6 alignment score : 2.60139e-08
+c y g n u s 
+NULL ({ }) स ({ 1 }) ि ({ 2 }) ग ({ 3 }) ् ({ 5 }) न ({ 4 }) स ({ 6 }) 
+# Sentence pair (983) source length 3 target length 3 alignment score : 0.156949
+d a h 
+NULL ({ }) ड ({ 1 }) ा ({ 2 }) ह ({ 3 }) 
+# Sentence pair (984) source length 3 target length 3 alignment score : 0.0156534
+d a i 
+NULL ({ }) द ({ 1 }) ा ({ 2 }) ई ({ 3 }) 
+# Sentence pair (987) source length 8 target length 7 alignment score : 1.28081e-08
+d a i o h j a 
+NULL ({ }) द ({ 1 }) े ({ 2 }) व ({ }) ि ({ 3 }) य ({ 4 }) ो ({ 5 }) ज ({ 6 }) ा ({ 7 }) 
+# Sentence pair (1001) source length 4 target length 5 alignment score : 6.53417e-06
+d a n c e 
+NULL ({ }) ड ({ 1 }) ा ({ 2 }) ं ({ 3 }) स ({ 4 5 }) 
+# Sentence pair (1003) source length 4 target length 6 alignment score : 1.34261e-06
+d a n g l e 
+NULL ({ 2 }) ड ({ 1 }) ं ({ 3 }) ग ({ 4 }) ल ({ 5 6 }) 
+# Sentence pair (1005) source length 6 target length 6 alignment score : 0.00129066
+d a n i e l 
+NULL ({ }) ड ({ 1 }) ै ({ 2 }) न ({ 3 }) ि ({ 4 }) य ({ 5 }) ल ({ 6 }) 
+# Sentence pair (1010) source length 8 target length 8 alignment score : 3.19812e-06
+d a r k s e i d 
+NULL ({ }) ड ({ 1 }) ा ({ 2 }) र ({ 3 }) ् ({ }) क ({ 4 }) स ({ 5 }) े ({ 6 7 }) ड ({ 8 }) 
+# Sentence pair (1018) source length 5 target length 5 alignment score : 5.8905e-06
+d a r y l 
+NULL ({ }) ड ({ 1 }) ा ({ 2 }) र ({ 3 }) ् ({ }) ल ({ 4 5 }) 
+# Sentence pair (1025) source length 6 target length 7 alignment score : 3.28841e-06
+d a z z l e r 
+NULL ({ }) ड ({ 1 }) ै ({ 2 }) ज ({ 3 }) ़ ({ 4 }) ल ({ 5 }) र ({ 6 7 }) 
+# Sentence pair (1031) source length 3 target length 5 alignment score : 0.000618109
+d e a t h 
+NULL ({ }) ड ({ 1 }) े ({ 2 3 }) थ ({ 4 5 }) 
+# Sentence pair (1035) source length 9 target length 10 alignment score : 1.64503e-10
+d e c e p t i c o n 
+NULL ({ 6 }) ड ({ 1 }) े ({ 2 }) स ({ 3 }) े ({ 4 }) प ({ 5 }) ि ({ 7 }) क ({ 8 }) ॉ ({ 9 }) न ({ 10 }) 
+# Sentence pair (1046) source length 6 target length 7 alignment score : 1.28027e-07
+d e f e n c e 
+NULL ({ }) ड ({ 1 }) ि ({ 2 }) फ ({ 3 }) े ({ 4 7 }) ं ({ 5 }) स ({ 6 }) 
+# Sentence pair (1049) source length 8 target length 11 alignment score : 1.44238e-17
+d e i n o n y c h u s 
+NULL ({ 10 }) ड ({ 1 }) े ({ 2 }) न ({ 6 }) ि ({ 3 }) न ({ 4 5 }) े ({ 7 }) क ({ 8 9 }) स ({ 11 }) 
+# Sentence pair (1067) source length 6 target length 7 alignment score : 1.01378e-09
+d e s i g n s 
+NULL ({ }) ड ({ 1 }) ि ({ 2 }) ज ({ 3 }) ा ({ 4 }) इ ({ 5 }) न ({ 6 7 }) 
+# Sentence pair (1072) source length 8 target length 7 alignment score : 0.000331258
+d e t r o i t 
+NULL ({ }) ड ({ 1 }) े ({ 2 }) ट ({ 3 }) ् ({ }) र ({ 4 }) ो ({ 5 }) इ ({ 6 }) ट ({ 7 }) 
+# Sentence pair (1078) source length 10 target length 9 alignment score : 8.51589e-06
+d i a b l o m o n 
+NULL ({ }) ड ({ 1 }) ा ({ 2 }) य ({ 3 }) ब ({ 4 }) ् ({ }) ल ({ 5 }) ो ({ 6 }) म ({ 7 }) ो ({ 8 }) न ({ 9 }) 
+# Sentence pair (1085) source length 5 target length 5 alignment score : 0.0189971
+d i e g o 
+NULL ({ }) ड ({ 1 }) ि ({ 2 }) ए ({ 3 }) ग ({ 4 }) ो ({ 5 }) 
+# Sentence pair (1086) source length 4 target length 4 alignment score : 0.0239279
+d i g i 
+NULL ({ }) ड ({ 1 }) ि ({ 2 }) ग ({ 3 }) ी ({ 4 }) 
+# Sentence pair (1089) source length 6 target length 7 alignment score : 3.65516e-05
+d i g i t a l 
+NULL ({ }) ड ({ 1 }) ि ({ 2 }) ज ({ 3 }) ि ({ 4 }) ट ({ 5 }) ल ({ 6 7 }) 
+# Sentence pair (1092) source length 8 target length 9 alignment score : 1.38758e-07
+d i m e n s i o n 
+NULL ({ }) ड ({ 1 }) ा ({ }) इ ({ 2 }) म ({ 3 }) े ({ 4 }) ं ({ 5 }) श ({ 6 7 }) न ({ 8 9 }) 
+# Sentence pair (1095) source length 9 target length 9 alignment score : 6.04419e-06
+d i n a a r k a n 
+NULL ({ }) ड ({ 1 }) ि ({ 2 }) न ({ 3 }) ा ({ 4 5 }) र ({ 6 }) ् ({ }) क ({ 7 }) ा ({ 8 }) न ({ 9 }) 
+# Sentence pair (1103) source length 8 target length 8 alignment score : 1.97751e-10
+d i n o s a u r 
+NULL ({ }) ड ({ 1 }) ा ({ 6 }) य ({ 2 }) न ({ 3 }) ा ({ 4 }) स ({ 5 }) ो ({ 7 }) र ({ 8 }) 
+# Sentence pair (1111) source length 8 target length 7 alignment score : 0.0014696
+d i o r a m a 
+NULL ({ }) ड ({ 1 }) ि ({ 2 }) य ({ }) ो ({ 3 }) र ({ 4 }) ा ({ 5 }) म ({ 6 }) ा ({ 7 }) 
+# Sentence pair (1115) source length 5 target length 4 alignment score : 0.0357598
+d i s c 
+NULL ({ }) ड ({ 1 }) ि ({ 2 }) स ({ 3 }) ् ({ }) क ({ 4 }) 
+# Sentence pair (1118) source length 3 target length 6 alignment score : 5.85275e-12
+d i s n e y 
+NULL ({ }) ड ({ 1 }) ि ({ 2 }) स ({ 3 4 5 6 }) 
+# Sentence pair (1121) source length 7 target length 6 alignment score : 9.72228e-06
+d i s n e y 
+NULL ({ }) ड ({ 1 }) ि ({ 2 }) स ({ 3 }) ् ({ }) क ({ }) न ({ 4 }) ी ({ 5 6 }) 
+# Sentence pair (1126) source length 7 target length 6 alignment score : 9.77214e-07
+d i s n e y 
+NULL ({ }) ड ({ 1 }) ि ({ 2 }) स ({ 3 }) ् ({ }) प ({ }) न ({ 4 }) ी ({ 5 6 }) 
+# Sentence pair (1132) source length 9 target length 9 alignment score : 6.03683e-05
+d i s p e n s e r 
+NULL ({ }) ड ({ 1 }) ि ({ 2 }) स ({ 3 }) ् ({ }) प ({ 4 }) े ({ 5 }) ं ({ 6 }) स ({ 7 }) र ({ 8 9 }) 
+# Sentence pair (1136) source length 4 target length 4 alignment score : 0.0290086
+d i v a 
+NULL ({ }) द ({ 1 }) ि ({ 2 }) व ({ 3 }) ा ({ 4 }) 
+# Sentence pair (1137) source length 4 target length 5 alignment score : 3.86987e-06
+d i v a s 
+NULL ({ 5 }) द ({ 1 }) ि ({ 2 }) व ({ 3 }) ा ({ 4 }) 
+# Sentence pair (1139) source length 5 target length 5 alignment score : 8.3022e-05
+d i v e r 
+NULL ({ }) ड ({ 1 }) ा ({ }) इ ({ 2 }) व ({ 3 }) र ({ 4 5 }) 
+# Sentence pair (1143) source length 6 target length 6 alignment score : 1.82547e-05
+d o c t o r 
+NULL ({ }) ड ({ 1 }) ॉ ({ 2 }) क ({ 3 }) ् ({ }) ट ({ 4 }) र ({ 5 6 }) 
+# Sentence pair (1146) source length 6 target length 7 alignment score : 1.09276e-07
+d o d g e r s 
+NULL ({ }) ड ({ 1 }) ॉ ({ 2 }) ज ({ 3 4 }) र ({ 5 6 }) ् ({ }) स ({ 7 }) 
+# Sentence pair (1156) source length 3 target length 3 alignment score : 0.243563
+d o m 
+NULL ({ }) ड ({ 1 }) ो ({ 2 }) म ({ 3 }) 
+# Sentence pair (1157) source length 9 target length 8 alignment score : 0.00128224
+d o m a g r o n 
+NULL ({ }) ड ({ 1 }) ॉ ({ 2 }) म ({ 3 }) ा ({ 4 }) ग ({ 5 }) ् ({ }) र ({ 6 }) ो ({ 7 }) न ({ 8 }) 
+# Sentence pair (1164) source length 4 target length 6 alignment score : 3.25331e-05
+d o o d l e 
+NULL ({ }) ड ({ 1 }) ू ({ 2 3 }) ड ({ 4 }) ल ({ 5 6 }) 
+# Sentence pair (1180) source length 4 target length 4 alignment score : 0.0800277
+d o t a 
+NULL ({ }) ड ({ 1 }) ो ({ 2 }) ट ({ 3 }) ा ({ 4 }) 
+# Sentence pair (1199) source length 7 target length 7 alignment score : 9.6405e-08
+d r a w i n g 
+NULL ({ }) ड ({ 1 }) ् ({ }) र ({ 2 }) ा ({ 3 }) इ ({ 4 5 }) ं ({ 6 }) ग ({ 7 }) 
+# Sentence pair (1205) source length 7 target length 5 alignment score : 0.0171268
+d r i f t 
+NULL ({ }) ड ({ 1 }) ् ({ }) र ({ 2 }) ि ({ 3 }) फ ({ 4 }) ् ({ }) ट ({ 5 }) 
+# Sentence pair (1211) source length 5 target length 5 alignment score : 7.45964e-07
+d r o i d 
+NULL ({ }) ड ({ 1 }) ् ({ 4 }) र ({ 2 }) ो ({ 3 }) ड ({ 5 }) 
+# Sentence pair (1220) source length 7 target length 10 alignment score : 9.10407e-11
+d u m b l e d o r e 
+NULL ({ 2 }) ड ({ 1 }) ं ({ 3 }) ब ({ 4 }) ल ({ 5 6 }) ड ({ 7 }) ो ({ 8 }) र ({ 9 10 }) 
+# Sentence pair (1254) source length 8 target length 11 alignment score : 1.07886e-12
+e d u c a t i o n a l 
+NULL ({ }) ए ({ 1 }) ज ({ 2 }) ु ({ 3 }) क ({ 4 }) े ({ 5 }) श ({ 6 7 }) न ({ 8 9 }) ल ({ 10 11 }) 
+# Sentence pair (1311) source length 8 target length 7 alignment score : 2.52602e-06
+e r a s e r s 
+NULL ({ }) इ ({ 1 }) र ({ 2 }) े ({ 3 }) ज ({ 4 }) ़ ({ 5 }) र ({ 6 }) ् ({ }) स ({ 7 }) 
+# Sentence pair (1319) source length 3 target length 3 alignment score : 0.00945452
+e v a 
+NULL ({ }) ई ({ 1 }) व ({ 2 }) ा ({ 3 }) 
+# Sentence pair (1321) source length 8 target length 10 alignment score : 8.98817e-14
+e v a n g e l i o n 
+NULL ({ 3 }) इ ({ 1 2 }) ं ({ 4 }) ज ({ 5 }) ी ({ 6 }) ल ({ 7 }) ि ({ 8 }) य ({ 9 }) न ({ 10 }) 
+# Sentence pair (1333) source length 13 target length 11 alignment score : 1.57563e-10
+e x o s k e l e t o n 
+NULL ({ }) ए ({ 1 }) क ({ }) ् ({ }) स ({ 2 }) ो ({ 3 }) स ({ 4 }) ् ({ }) क ({ 5 }) े ({ 6 }) ल ({ 7 }) े ({ 8 }) ट ({ 9 }) न ({ 10 11 }) 
+# Sentence pair (1355) source length 3 target length 3 alignment score : 0.109228
+f a n 
+NULL ({ }) फ ({ 1 }) ै ({ 2 }) न ({ 3 }) 
+# Sentence pair (1357) source length 8 target length 8 alignment score : 0.0075364
+f a n d a n g o 
+NULL ({ }) फ ({ 1 }) ै ({ 2 }) ं ({ 3 }) ड ({ 4 }) ै ({ 5 }) ं ({ 6 }) ग ({ 7 }) ो ({ 8 }) 
+# Sentence pair (1368) source length 5 target length 5 alignment score : 0.000218476
+f a v r e 
+NULL ({ }) फ ({ 1 }) े ({ 2 }) व ({ 3 }) र ({ 4 }) े ({ 5 }) 
+# Sentence pair (1371) source length 6 target length 8 alignment score : 2.43764e-11
+f e l d h e r r 
+NULL ({ 5 }) फ ({ 1 }) े ({ 2 }) ल ({ 3 }) ् ({ }) ड ({ 4 }) र ({ 6 7 8 }) 
+# Sentence pair (1385) source length 7 target length 8 alignment score : 6.46434e-11
+f i g h t e r s 
+NULL ({ 4 }) फ ({ 1 }) ा ({ 2 }) इ ({ 3 }) ट ({ 5 }) र ({ 6 7 }) ् ({ }) स ({ 8 }) 
+# Sentence pair (1422) source length 5 target length 4 alignment score : 0.0554635
+f l a p 
+NULL ({ }) फ ({ 1 }) ् ({ }) ल ({ 2 }) ै ({ 3 }) प ({ 4 }) 
+# Sentence pair (1425) source length 8 target length 9 alignment score : 1.48059e-05
+f l a s h b a c k 
+NULL ({ }) फ ({ 1 }) ् ({ }) ल ({ 2 }) ै ({ 3 }) श ({ 4 5 }) ब ({ 6 }) ै ({ 7 }) क ({ 8 9 }) 
+# Sentence pair (1441) source length 7 target length 6 alignment score : 2.62346e-05
+f l y i n g 
+NULL ({ }) फ ({ 1 }) ् ({ }) ल ({ 2 }) ा ({ }) इ ({ 3 4 }) ं ({ 5 }) ग ({ 6 }) 
+# Sentence pair (1448) source length 5 target length 4 alignment score : 0.0073013
+f o i l 
+NULL ({ }) फ ({ 1 }) ़ ({ }) ॉ ({ 2 }) इ ({ 3 }) ल ({ 4 }) 
+# Sentence pair (1458) source length 5 target length 4 alignment score : 0.00120963
+f o r m 
+NULL ({ }) फ ({ 1 }) ा ({ 2 }) र ({ 3 }) ् ({ }) म ({ 4 }) 
+# Sentence pair (1479) source length 6 target length 6 alignment score : 1.27177e-05
+f r e d d y 
+NULL ({ }) फ ({ 1 }) ् ({ }) र ({ 2 }) े ({ 3 }) ड ({ 4 5 }) ी ({ 6 }) 
+# Sentence pair (1485) source length 7 target length 7 alignment score : 2.42657e-06
+f r e h l e y 
+NULL ({ }) फ ({ 1 }) ् ({ }) र ({ 2 }) े ({ 3 }) ह ({ 4 }) ल ({ 5 }) े ({ 6 7 }) 
+# Sentence pair (1490) source length 9 target length 8 alignment score : 7.68414e-08
+f r i e s i a n 
+NULL ({ }) फ ({ 1 }) ् ({ }) र ({ 2 }) े ({ 3 4 }) ज ({ 5 }) ़ ({ }) ि ({ 6 }) य ({ 7 }) न ({ 8 }) 
+# Sentence pair (1513) source length 6 target length 7 alignment score : 3.00991e-08
+f u n p l a y 
+NULL ({ 2 }) फ ({ 1 }) न ({ 3 }) प ({ 4 }) ् ({ }) ल ({ 5 }) े ({ 6 7 }) 
+# Sentence pair (1529) source length 4 target length 5 alignment score : 0.00157021
+g a b b a 
+NULL ({ }) ग ({ 1 }) ा ({ 2 }) ब ({ 3 4 }) ा ({ 5 }) 
+# Sentence pair (1556) source length 6 target length 6 alignment score : 0.00753205
+g a m i n g 
+NULL ({ }) ग ({ 1 }) े ({ 2 }) म ({ 3 }) ि ({ 4 }) ं ({ 5 }) ग ({ 6 }) 
+# Sentence pair (1560) source length 10 target length 9 alignment score : 2.52597e-05
+g a m o r r e a n 
+NULL ({ }) ग ({ 1 }) े ({ 2 }) म ({ 3 }) ो ({ 4 }) र ({ 5 }) ् ({ }) र ({ 6 }) े ({ 7 }) ए ({ 8 }) न ({ 9 }) 
+# Sentence pair (1573) source length 5 target length 8 alignment score : 8.35352e-10
+g a s h a p o n 
+NULL ({ 5 }) ग ({ 1 2 }) श ({ 3 4 }) प ({ 6 }) ो ({ 7 }) न ({ 8 }) 
+# Sentence pair (1583) source length 5 target length 5 alignment score : 0.000337106
+g a t e s 
+NULL ({ }) ग ({ 1 }) े ({ 2 }) ट ({ 3 }) ् ({ 4 }) स ({ 5 }) 
+# Sentence pair (1594) source length 6 target length 7 alignment score : 4.86264e-08
+g e l d i n g 
+NULL ({ }) ज ({ 1 }) े ({ 2 }) ल ({ 3 4 }) ि ({ 5 }) ं ({ 6 }) ग ({ 7 }) 
+# Sentence pair (1607) source length 5 target length 8 alignment score : 3.83426e-14
+g e n e s e c t 
+NULL ({ }) ज ({ 1 }) ी ({ 2 }) न ({ 3 }) ् ({ 4 }) स ({ 5 6 7 8 }) 
+# Sentence pair (1615) source length 9 target length 8 alignment score : 1.5276e-05
+g e o n o s i s 
+NULL ({ }) ज ({ 1 }) ि ({ 2 }) य ({ }) ो ({ 3 }) न ({ 4 }) ो ({ 5 }) स ({ 6 }) ि ({ 7 }) स ({ 8 }) 
+# Sentence pair (1635) source length 4 target length 4 alignment score : 0.0507637
+g i l a 
+NULL ({ }) ग ({ 1 }) ि ({ 2 }) ल ({ 3 }) ा ({ 4 }) 
+# Sentence pair (1638) source length 5 target length 7 alignment score : 2.95177e-07
+g i r a f f e 
+NULL ({ 7 }) ज ({ 1 }) ि ({ 2 }) र ({ 3 }) ा ({ 4 }) फ ({ 5 6 }) 
+# Sentence pair (1646) source length 5 target length 5 alignment score : 0.000363216
+g l e e k 
+NULL ({ }) ग ({ 1 }) ् ({ }) ल ({ 2 }) ी ({ 3 4 }) क ({ 5 }) 
+# Sentence pair (1650) source length 9 target length 9 alignment score : 2.75546e-08
+g l i m h o u s e 
+NULL ({ 9 }) ग ({ 1 }) ् ({ }) ल ({ 2 }) ि ({ 3 }) म ({ 4 }) ह ({ 5 }) ा ({ }) उ ({ 6 7 }) स ({ 8 }) 
+# Sentence pair (1676) source length 5 target length 5 alignment score : 0.0174765
+g o l e m 
+NULL ({ }) ग ({ 1 }) ो ({ 2 }) ल ({ 3 }) े ({ 4 }) म ({ 5 }) 
+# Sentence pair (1679) source length 7 target length 6 alignment score : 0.000122838
+g o l o o g 
+NULL ({ }) ग ({ 1 }) ो ({ 2 }) ल ({ 3 }) ो ({ 4 }) ल ({ }) ो ({ 5 }) ग ({ 6 }) 
+# Sentence pair (1684) source length 4 target length 6 alignment score : 2.87111e-06
+g o p h e r 
+NULL ({ }) ग ({ 1 }) ो ({ 2 }) फ ({ 3 4 }) र ({ 5 6 }) 
+# Sentence pair (1687) source length 4 target length 5 alignment score : 0.00157743
+g o s e i 
+NULL ({ }) ग ({ 1 }) ो ({ 2 }) स ({ 3 }) ी ({ 4 5 }) 
+# Sentence pair (1688) source length 8 target length 7 alignment score : 7.78298e-06
+g o t e n k s 
+NULL ({ }) ग ({ 1 }) े ({ 2 }) ट ({ 3 }) े ({ 4 }) ं ({ 5 }) क ({ 6 }) ् ({ }) स ({ 7 }) 
+# Sentence pair (1691) source length 8 target length 7 alignment score : 0.00157708
+g o t e n k s 
+NULL ({ }) ग ({ 1 }) ो ({ 2 }) ट ({ 3 }) े ({ 4 }) ं ({ 5 }) क ({ 6 }) ् ({ }) स ({ 7 }) 
+# Sentence pair (1701) source length 6 target length 8 alignment score : 1.95115e-09
+g o v e r n o r 
+NULL ({ 2 }) ग ({ 1 }) व ({ 3 }) र ({ 4 5 }) ् ({ }) न ({ 6 7 }) र ({ 8 }) 
+# Sentence pair (1711) source length 9 target length 9 alignment score : 3.68152e-10
+g r a p h i t t i 
+NULL ({ }) ग ({ 1 }) ् ({ }) र ({ 2 }) े ({ 3 }) फ ({ 4 }) ा ({ 5 }) इ ({ 6 }) ट ({ 7 8 }) ी ({ 9 }) 
+# Sentence pair (1743) source length 6 target length 6 alignment score : 0.000286366
+g r o v e r 
+NULL ({ }) ग ({ 1 }) ् ({ }) र ({ 2 }) ो ({ 3 }) व ({ 4 }) र ({ 5 6 }) 
+# Sentence pair (1747) source length 5 target length 5 alignment score : 7.59335e-06
+g u a i z 
+NULL ({ }) ग ({ 1 }) ु ({ 2 }) इ ({ 4 }) ज ({ 5 }) ़ ({ 3 }) 
+# Sentence pair (1751) source length 9 target length 9 alignment score : 1.54074e-09
+g u a r d i a n s 
+NULL ({ 2 }) ग ({ 1 }) ा ({ 3 }) र ({ 4 }) ् ({ }) ज ({ 5 }) ि ({ 6 }) य ({ 7 }) ं ({ 8 }) स ({ 9 }) 
+# Sentence pair (1809) source length 11 target length 10 alignment score : 6.85082e-06
+h a p p y s t o r e 
+NULL ({ }) ह ({ 1 }) ै ({ 2 }) प ({ 3 }) ् ({ }) प ({ 4 }) ी ({ 5 }) स ({ 6 }) ् ({ }) ट ({ 7 }) ो ({ 8 }) र ({ 9 10 }) 
+# Sentence pair (1828) source length 3 target length 3 alignment score : 0.249204
+h a t 
+NULL ({ }) ह ({ 1 }) ै ({ 2 }) ट ({ 3 }) 
+# Sentence pair (1831) source length 5 target length 7 alignment score : 3.58236e-06
+h a t e l l o 
+NULL ({ 2 }) ह ({ 1 }) ट ({ 3 }) े ({ 4 }) ल ({ 5 6 }) ो ({ 7 }) 
+# Sentence pair (1837) source length 4 target length 6 alignment score : 0.000127903
+h a t t e r 
+NULL ({ }) ह ({ 1 }) ै ({ 2 }) ट ({ 3 4 }) र ({ 5 6 }) 
+# Sentence pair (1844) source length 6 target length 7 alignment score : 1.77385e-07
+h a y w i r e 
+NULL ({ }) ह ({ 1 }) ै ({ 2 }) व ({ 4 }) ी ({ 5 }) य ({ 3 }) र ({ 6 7 }) 
+# Sentence pair (1852) source length 9 target length 9 alignment score : 3.33697e-10
+h e a r t l i n e 
+NULL ({ }) ह ({ 1 }) ा ({ 2 3 }) र ({ 4 }) ् ({ }) ट ({ 5 }) ल ({ 6 }) ा ({ 7 }) इ ({ 9 }) न ({ 8 }) 
+# Sentence pair (1865) source length 4 target length 6 alignment score : 9.31646e-10
+h e i g h t 
+NULL ({ 2 }) ह ({ 1 }) ा ({ 5 }) इ ({ 3 4 }) ट ({ 6 }) 
+# Sentence pair (1878) source length 6 target length 6 alignment score : 0.00535865
+h e l m e t 
+NULL ({ }) ह ({ 1 }) े ({ 2 }) ल ({ 3 }) म ({ 4 }) े ({ 5 }) ट ({ 6 }) 
+# Sentence pair (1883) source length 3 target length 3 alignment score : 0.0783158
+h e n 
+NULL ({ }) ह ({ 1 }) े ({ 2 }) न ({ 3 }) 
+# Sentence pair (1886) source length 6 target length 5 alignment score : 1.44065e-05
+h e n r y 
+NULL ({ }) ह ({ 1 }) े ({ 2 }) न ({ 3 }) े ({ }) र ({ 4 }) ी ({ 5 }) 
+# Sentence pair (1889) source length 7 target length 8 alignment score : 3.38764e-06
+h e r i t a g e 
+NULL ({ }) ह ({ 1 }) े ({ 2 }) र ({ 3 }) ि ({ 4 }) ट ({ 5 }) े ({ 6 8 }) ज ({ 7 }) 
+# Sentence pair (1895) source length 4 target length 6 alignment score : 4.54013e-08
+h e r o e s 
+NULL ({ }) ह ({ 1 }) ी ({ 5 6 }) र ({ 2 3 }) ो ({ 4 }) 
+# Sentence pair (1900) source length 5 target length 5 alignment score : 0.0149674
+h e r o s 
+NULL ({ }) ह ({ 1 }) े ({ 2 }) र ({ 3 }) ो ({ 4 }) स ({ 5 }) 
+# Sentence pair (1903) source length 7 target length 6 alignment score : 2.22529e-08
+h e x b u g 
+NULL ({ }) ह ({ 1 }) े ({ 2 }) क ({ 3 }) ् ({ }) स ({ 5 }) ब ({ 4 }) ग ({ 6 }) 
+# Sentence pair (1908) source length 10 target length 11 alignment score : 1.04777e-06
+h i g a s h i k a t a 
+NULL ({ }) ह ({ 1 }) ि ({ 2 }) ग ({ 3 }) ा ({ 4 }) श ({ 5 6 }) ि ({ 7 }) क ({ 8 }) ् ({ }) त ({ 9 10 }) ा ({ 11 }) 
+# Sentence pair (1917) source length 6 target length 5 alignment score : 0.0584562
+h i p p o 
+NULL ({ }) ह ({ 1 }) ि ({ 2 }) प ({ 3 }) ् ({ }) प ({ 4 }) ो ({ 5 }) 
+# Sentence pair (1922) source length 3 target length 3 alignment score : 0.237491
+h i t 
+NULL ({ }) ह ({ 1 }) ि ({ 2 }) ट ({ 3 }) 
+# Sentence pair (1925) source length 6 target length 9 alignment score : 1.03059e-07
+h i t c h c o c k 
+NULL ({ }) ह ({ 1 }) ि ({ 2 }) च ({ 3 4 5 }) क ({ 6 }) ॉ ({ 7 }) क ({ 8 9 }) 
+# Sentence pair (1928) source length 6 target length 7 alignment score : 0.00059261
+h i t o s h i 
+NULL ({ }) ह ({ 1 }) ि ({ 2 }) ट ({ 3 }) ो ({ 4 }) श ({ 5 6 }) ी ({ 7 }) 
+# Sentence pair (1957) source length 3 target length 4 alignment score : 0.0087387
+h o o h 
+NULL ({ }) ह ({ 1 }) ो ({ 2 3 }) ह ({ 4 }) 
+# Sentence pair (1960) source length 3 target length 3 alignment score : 0.178989
+h o p 
+NULL ({ }) ह ({ 1 }) ॉ ({ 2 }) प ({ 3 }) 
+# Sentence pair (1962) source length 4 target length 6 alignment score : 5.20961e-05
+h o p p e r 
+NULL ({ }) ह ({ 1 }) ॉ ({ 2 }) प ({ 3 4 }) र ({ 5 6 }) 
+# Sentence pair (1964) source length 7 target length 6 alignment score : 0.000443069
+h o r d e s 
+NULL ({ }) ह ({ 1 }) ो ({ 2 }) र ({ 3 }) ् ({ }) ड ({ 4 }) ् ({ 5 }) स ({ 6 }) 
+# Sentence pair (2001) source length 8 target length 6 alignment score : 0.00016011
+h y b r i d 
+NULL ({ }) ह ({ 1 }) ा ({ }) इ ({ 2 }) ब ({ 3 }) ् ({ }) र ({ 4 }) ि ({ 5 }) ड ({ 6 }) 
+# Sentence pair (2003) source length 10 target length 9 alignment score : 2.84804e-08
+h y d r e i g o n 
+NULL ({ }) ह ({ 1 }) ा ({ }) इ ({ 2 }) ड ({ 3 }) ् ({ }) र ({ 4 }) े ({ 5 6 }) ग ({ 7 }) ॉ ({ 8 }) न ({ 9 }) 
+# Sentence pair (2027) source length 8 target length 6 alignment score : 0.0052344
+i m p o r t 
+NULL ({ }) इ ({ 1 }) म ({ 2 }) ् ({ }) प ({ 3 }) ो ({ 4 }) र ({ 5 }) ् ({ }) ट ({ 6 }) 
+# Sentence pair (2029) source length 7 target length 7 alignment score : 1.00576e-08
+i m p u l s e 
+NULL ({ }) इ ({ 1 }) म ({ 2 }) ् ({ }) प ({ 3 }) ल ({ 5 7 }) ् ({ 4 }) स ({ 6 }) 
+# Sentence pair (2043) source length 3 target length 3 alignment score : 0.0293024
+i n k 
+NULL ({ }) इ ({ 1 }) ं ({ 2 }) क ({ 3 }) 
+# Sentence pair (2045) source length 10 target length 11 alignment score : 3.07918e-13
+i n t e r a c t e c h 
+NULL ({ }) इ ({ 1 }) ं ({ 2 }) ट ({ 3 }) र ({ 4 5 }) ए ({ 6 }) क ({ 7 10 }) ् ({ }) ट ({ 8 }) ि ({ 9 }) व ({ 11 }) 
+# Sentence pair (2084) source length 11 target length 12 alignment score : 9.07089e-11
+j a k k s p a c i f i c 
+NULL ({ 2 }) ज ({ 1 }) क ({ 3 4 }) ् ({ }) स ({ 5 }) प ({ 6 }) े ({ 7 }) स ({ 8 }) ि ({ 9 }) फ ({ 10 }) ि ({ 11 }) क ({ 12 }) 
+# Sentence pair (2123) source length 4 target length 5 alignment score : 0.00029184
+j e r r y 
+NULL ({ }) ज ({ 1 }) े ({ 2 }) र ({ 3 4 }) ी ({ 5 }) 
+# Sentence pair (2126) source length 4 target length 5 alignment score : 9.98596e-05
+j e s s e 
+NULL ({ }) ज ({ 1 }) े ({ 2 }) स ({ 3 4 }) ी ({ 5 }) 
+# Sentence pair (2132) source length 3 target length 4 alignment score : 0.00119405
+j e t t 
+NULL ({ }) ज ({ 1 }) े ({ 2 }) ट ({ 3 4 }) 
+# Sentence pair (2137) source length 4 target length 5 alignment score : 8.3108e-05
+j i m m y 
+NULL ({ }) ज ({ 1 }) ि ({ 2 }) म ({ 3 4 }) ी ({ 5 }) 
+# Sentence pair (2142) source length 3 target length 3 alignment score : 0.00697742
+j o e 
+NULL ({ }) ज ({ 1 }) ो ({ 2 }) ई ({ 3 }) 
+# Sentence pair (2146) source length 4 target length 4 alignment score : 8.58355e-06
+j o h n 
+NULL ({ }) ज ({ 1 }) ो ({ 2 }) न ({ 4 }) ा ({ 3 }) 
+# Sentence pair (2152) source length 3 target length 3 alignment score : 0.0287075
+j o n 
+NULL ({ }) ज ({ 1 }) ॉ ({ 2 }) न ({ 3 }) 
+# Sentence pair (2154) source length 4 target length 5 alignment score : 1.4536e-05
+j o n a h 
+NULL ({ }) ज ({ 1 }) ो ({ 2 }) न ({ 3 }) ा ({ 4 5 }) 
+# Sentence pair (2158) source length 3 target length 5 alignment score : 5.75231e-09
+j o n e s 
+NULL ({ }) ज ({ 1 }) ौ ({ 2 }) न ({ 3 4 5 }) 
+# Sentence pair (2163) source length 5 target length 6 alignment score : 4.0011e-08
+j o s u k e 
+NULL ({ }) ज ({ 1 }) ो ({ 2 }) स ({ 3 }) ् ({ 4 6 }) क ({ 5 }) 
+# Sentence pair (2172) source length 6 target length 8 alignment score : 2.61061e-10
+j u n c t i o n 
+NULL ({ 2 }) ज ({ 1 }) ं ({ 3 }) क ({ 4 }) ् ({ }) श ({ 5 6 }) न ({ 7 8 }) 
+# Sentence pair (2209) source length 4 target length 5 alignment score : 0.00727245
+k a n t h 
+NULL ({ }) क ({ 1 }) ै ({ 2 }) ं ({ 3 }) थ ({ 4 5 }) 
+# Sentence pair (2211) source length 5 target length 7 alignment score : 1.92782e-07
+k a r k o o n 
+NULL ({ }) क ({ 1 }) र ({ 2 3 }) क ({ 4 }) ू ({ 5 6 }) न ({ 7 }) 
+# Sentence pair (2218) source length 4 target length 5 alignment score : 0.000450666
+k e e d a 
+NULL ({ }) क ({ 1 }) ी ({ 2 3 }) ड ({ 4 }) ा ({ 5 }) 
+# Sentence pair (2225) source length 6 target length 7 alignment score : 3.0297e-08
+k e n s h i n 
+NULL ({ 5 }) क ({ 1 }) े ({ 2 }) ं ({ 3 }) स ({ 4 }) ि ({ 6 }) न ({ 7 }) 
+# Sentence pair (2237) source length 3 target length 4 alignment score : 0.00158329
+k i c k 
+NULL ({ }) क ({ 1 }) ि ({ 2 }) क ({ 3 4 }) 
+# Sentence pair (2255) source length 9 target length 8 alignment score : 3.19442e-05
+k i n g s t o n 
+NULL ({ }) क ({ 1 }) ि ({ 2 }) ं ({ 3 }) ग ({ 4 }) ् ({ }) स ({ 5 }) ् ({ }) ट ({ 6 }) न ({ 7 8 }) 
+# Sentence pair (2274) source length 10 target length 12 alignment score : 6.01628e-15
+k n i g h t s m o d e l 
+NULL ({ 5 }) न ({ 1 2 }) ा ({ 3 }) इ ({ 4 }) ट ({ 6 }) ् ({ }) स ({ 7 }) म ({ 8 }) ॉ ({ 9 }) ड ({ 10 }) ल ({ 11 12 }) 
+# Sentence pair (2311) source length 6 target length 7 alignment score : 7.20707e-05
+k u b r i c k 
+NULL ({ }) क ({ 1 }) ु ({ 2 }) ब ({ 3 }) र ({ 4 }) ि ({ 5 }) क ({ 6 7 }) 
+# Sentence pair (2346) source length 5 target length 7 alignment score : 3.50093e-07
+l a r u s s o 
+NULL ({ }) ल ({ 1 }) ा ({ 2 }) र ({ 3 4 }) स ({ 5 6 }) ो ({ 7 }) 
+# Sentence pair (2362) source length 3 target length 6 alignment score : 2.82837e-10
+l e a g u e 
+NULL ({ 5 }) ल ({ 1 }) ी ({ 2 3 6 }) ग ({ 4 }) 
+# Sentence pair (2366) source length 7 target length 6 alignment score : 1.34917e-06
+l e c t e r 
+NULL ({ }) ल ({ 1 }) े ({ 2 }) क ({ 3 }) ् ({ }) च ({ 4 }) र ({ 5 }) र ({ 6 }) 
+# Sentence pair (2372) source length 6 target length 7 alignment score : 1.19954e-07
+l e g e n d s 
+NULL ({ 7 }) ल ({ 1 }) ी ({ 2 }) ज ({ 3 }) े ({ 4 }) ं ({ 5 }) ड ({ 6 }) 
+# Sentence pair (2377) source length 6 target length 6 alignment score : 0.000400186
+l e g i o n 
+NULL ({ }) ल ({ 1 }) े ({ 2 }) ग ({ 3 }) ि ({ 4 }) य ({ 5 }) न ({ 6 }) 
+# Sentence pair (2381) source length 4 target length 5 alignment score : 5.29987e-05
+l e h z a 
+NULL ({ }) ल ({ 1 2 }) ह ({ 3 }) ज ({ 4 }) ा ({ 5 }) 
+# Sentence pair (2385) source length 3 target length 3 alignment score : 0.0352703
+l e o 
+NULL ({ }) ल ({ 1 }) ी ({ 2 }) ओ ({ 3 }) 
+# Sentence pair (2388) source length 9 target length 7 alignment score : 5.4552e-05
+l e o n a r d 
+NULL ({ }) ल ({ 1 }) ि ({ 2 }) य ({ }) ो ({ 3 }) न ({ 4 }) ा ({ 5 }) र ({ 6 }) ् ({ }) ड ({ 7 }) 
+# Sentence pair (2393) source length 5 target length 6 alignment score : 1.99622e-05
+l e s n a r 
+NULL ({ }) ल ({ 1 }) े ({ 2 }) स ({ 3 }) न ({ 4 5 }) र ({ 6 }) 
+# Sentence pair (2397) source length 7 target length 7 alignment score : 5.61005e-05
+l i b e r t y 
+NULL ({ }) ल ({ 1 }) ि ({ 2 }) ब ({ 3 }) र ({ 4 5 }) ् ({ }) ट ({ 6 }) ी ({ 7 }) 
+# Sentence pair (2403) source length 8 target length 10 alignment score : 6.13888e-12
+l i g h t e n i n g 
+NULL ({ 4 }) ल ({ 1 }) ा ({ 2 }) इ ({ 3 }) ट ({ 5 }) न ({ 6 7 }) ि ({ 8 }) ं ({ 9 }) ग ({ 10 }) 
+# Sentence pair (2410) source length 9 target length 10 alignment score : 3.1586e-13
+l i g h t s a b e r 
+NULL ({ 7 }) ल ({ 1 }) ा ({ 2 }) इ ({ 3 }) ट ({ 5 }) ् ({ 4 }) स ({ 6 }) ब ({ 8 }) े ({ 9 }) र ({ 10 }) 
+# Sentence pair (2419) source length 5 target length 7 alignment score : 5.78066e-11
+l i m i t e d 
+NULL ({ }) स ({ 1 }) ी ({ 2 6 }) म ({ 3 }) ि ({ 4 }) त ({ 5 7 }) 
+# Sentence pair (2442) source length 4 target length 5 alignment score : 0.000440319
+l o g a n 
+NULL ({ }) ल ({ 1 }) ो ({ 2 }) ग ({ 3 }) न ({ 4 5 }) 
+# Sentence pair (2469) source length 4 target length 5 alignment score : 0.00231773
+l u c h a 
+NULL ({ }) ल ({ 1 }) ु ({ 2 }) च ({ 3 4 }) ा ({ 5 }) 
+# Sentence pair (2473) source length 4 target length 6 alignment score : 7.20305e-10
+l u c y ' s 
+NULL ({ }) ल ({ 1 }) ु ({ 2 }) स ({ 3 }) ी ({ 4 5 6 }) 
+# Sentence pair (2477) source length 5 target length 5 alignment score : 0.00114442
+l u i g i 
+NULL ({ }) ल ({ 1 }) ु ({ 2 }) इ ({ 3 }) ग ({ 4 }) ी ({ 5 }) 
+# Sentence pair (2483) source length 6 target length 5 alignment score : 0.00021437
+l y d i a 
+NULL ({ }) ल ({ 1 }) ि ({ 2 }) ड ({ 3 }) ि ({ 4 }) य ({ }) ा ({ 5 }) 
+# Sentence pair (2495) source length 6 target length 7 alignment score : 4.71921e-10
+m a c r o s s 
+NULL ({ 7 }) म ({ 1 }) ै ({ 2 }) क ({ 3 }) ् ({ }) र ({ 4 }) ो ({ 5 6 }) 
+# Sentence pair (2525) source length 4 target length 5 alignment score : 0.000234233
+m a k e r 
+NULL ({ }) म ({ 1 }) े ({ 2 }) क ({ 3 }) र ({ 4 5 }) 
+# Sentence pair (2532) source length 4 target length 7 alignment score : 1.72869e-07
+m a m m o t h 
+NULL ({ 5 }) म ({ 1 }) ै ({ 2 }) म ({ 3 4 }) थ ({ 6 7 }) 
+# Sentence pair (2539) source length 4 target length 5 alignment score : 8.92787e-05
+m a n g a 
+NULL ({ 2 }) म ({ 1 }) ं ({ 3 }) ग ({ 4 }) ा ({ 5 }) 
+# Sentence pair (2541) source length 7 target length 9 alignment score : 2.72189e-07
+m a n h u n t e r 
+NULL ({ 5 }) म ({ 1 }) ै ({ 2 }) न ({ 3 }) ह ({ 4 }) ं ({ 6 }) ट ({ 7 }) र ({ 8 9 }) 
+# Sentence pair (2558) source length 7 target length 10 alignment score : 6.32774e-11
+m a r i o n e t t e 
+NULL ({ 10 }) म ({ 1 }) ै ({ 2 }) र ({ 3 }) ि ({ 4 }) य ({ 5 }) न ({ 6 7 }) ट ({ 8 9 }) 
+# Sentence pair (2601) source length 4 target length 5 alignment score : 0.000755491
+m a t e r 
+NULL ({ }) म ({ 1 }) े ({ 2 }) ट ({ 3 }) र ({ 4 5 }) 
+# Sentence pair (2613) source length 7 target length 6 alignment score : 3.96109e-06
+m a t t e l 
+NULL ({ }) म ({ 1 }) ् ({ }) य ({ 2 }) ू ({ }) ट ({ 3 4 }) े ({ 5 }) ल ({ 6 }) 
+# Sentence pair (2624) source length 3 target length 4 alignment score : 0.000376937
+m e a l 
+NULL ({ }) म ({ 1 }) ी ({ 2 3 }) ल ({ 4 }) 
+# Sentence pair (2635) source length 6 target length 7 alignment score : 2.35457e-08
+m e d i c o m 
+NULL ({ }) म ({ 1 }) े ({ 2 }) ड ({ 3 }) ि ({ 4 }) स ({ 5 }) न ({ 6 7 }) 
+# Sentence pair (2648) source length 9 target length 8 alignment score : 0.000187349
+m e g a m i n d 
+NULL ({ }) म ({ 1 }) े ({ 2 }) ग ({ 3 }) ा ({ 4 }) म ({ 5 }) ा ({ }) इ ({ 6 }) ं ({ 7 }) ड ({ 8 }) 
+# Sentence pair (2655) source length 4 target length 4 alignment score : 0.0496562
+m e g o 
+NULL ({ }) म ({ 1 }) े ({ 2 }) ग ({ 3 }) ो ({ 4 }) 
+# Sentence pair (2657) source length 6 target length 6 alignment score : 0.00134696
+m e m o r y 
+NULL ({ }) म ({ 1 }) े ({ 2 }) म ({ 3 }) ो ({ 4 }) र ({ 5 }) ी ({ 6 }) 
+# Sentence pair (2674) source length 6 target length 9 alignment score : 8.84169e-16
+m e t a l l i c a 
+NULL ({ 5 6 }) म ({ 1 }) े ({ 2 4 }) ट ({ 3 }) ि ({ 7 }) क ({ 8 }) ा ({ 9 }) 
+# Sentence pair (2691) source length 6 target length 6 alignment score : 0.000101939
+m i c k e y 
+NULL ({ }) म ({ 1 }) ि ({ 2 }) क ({ 3 }) ् ({ }) क ({ 4 }) ी ({ 5 6 }) 
+# Sentence pair (2702) source length 4 target length 4 alignment score : 0.0138083
+m i k u 
+NULL ({ }) म ({ 1 }) ि ({ 2 }) क ({ 3 }) ू ({ 4 }) 
+# Sentence pair (2717) source length 11 target length 9 alignment score : 1.00377e-07
+m i n e c r a f t 
+NULL ({ }) म ({ 1 }) ा ({ }) इ ({ 2 }) न ({ 3 4 }) क ({ 5 }) ् ({ }) र ({ 6 }) ा ({ 7 }) फ ({ 8 }) ् ({ }) ट ({ 9 }) 
+# Sentence pair (2752) source length 5 target length 3 alignment score : 0.000155639
+m i x 
+NULL ({ }) म ({ 1 }) ि ({ 2 }) क ({ }) ् ({ }) स ({ 3 }) 
+# Sentence pair (2759) source length 4 target length 5 alignment score : 0.00111099
+m o d e l 
+NULL ({ }) म ({ 1 }) ॉ ({ 2 }) ड ({ 3 }) ल ({ 4 5 }) 
+# Sentence pair (2765) source length 5 target length 6 alignment score : 0.000277182
+m o h a a k 
+NULL ({ }) म ({ 1 }) ो ({ 2 }) ह ({ 3 }) ा ({ 4 5 }) क ({ 6 }) 
+# Sentence pair (2770) source length 3 target length 3 alignment score : 0.000575683
+m o m 
+NULL ({ }) म ({ 1 }) ा ({ 2 }) ँ ({ 3 }) 
+# Sentence pair (2786) source length 3 target length 5 alignment score : 7.72643e-06
+m o o s e 
+NULL ({ }) म ({ 1 }) ौ ({ 2 3 }) स ({ 4 5 }) 
+# Sentence pair (2790) source length 8 target length 8 alignment score : 1.75892e-07
+m o r p h e r s 
+NULL ({ }) म ({ 1 }) ॉ ({ 2 }) र ({ 3 }) ् ({ }) फ ({ 4 5 }) र ({ 6 7 }) ् ({ }) स ({ 8 }) 
+# Sentence pair (2804) source length 4 target length 5 alignment score : 0.00012082
+m o t o r 
+NULL ({ }) म ({ 1 }) ो ({ 2 }) ट ({ 3 }) र ({ 4 5 }) 
+# Sentence pair (2808) source length 10 target length 10 alignment score : 3.28637e-13
+m o t o r c y c l e 
+NULL ({ }) म ({ 1 }) ो ({ 2 }) ट ({ 3 }) र ({ 4 5 }) स ({ 6 }) ा ({ }) इ ({ 7 }) क ({ 8 }) ि ({ 10 }) ल ({ 9 }) 
+# Sentence pair (2842) source length 9 target length 10 alignment score : 1.94569e-12
+m u l t i c o l o r 
+NULL ({ }) म ({ 1 }) ल ({ 3 }) ् ({ 2 }) ट ({ 4 }) ी ({ 5 }) र ({ 6 }) ो ({ 7 }) ल ({ 8 }) र ({ 9 10 }) 
+# Sentence pair (2848) source length 9 target length 10 alignment score : 8.12631e-11
+m u l t i v e r s e 
+NULL ({ }) म ({ 1 }) ल ({ 3 }) ् ({ 2 }) ट ({ 4 }) ी ({ 5 10 }) व ({ 6 }) र ({ 7 8 }) ् ({ }) स ({ 9 }) 
+# Sentence pair (2862) source length 3 target length 3 alignment score : 0.0886367
+m u v 
+NULL ({ }) म ({ 1 }) ु ({ 2 }) व ({ 3 }) 
+# Sentence pair (2864) source length 6 target length 7 alignment score : 1.14021e-06
+m y e t h o s 
+NULL ({ }) म ({ 1 }) ा ({ }) य ({ 2 3 }) थ ({ 4 5 }) ो ({ 6 }) स ({ 7 }) 
+# Sentence pair (2870) source length 3 target length 4 alignment score : 0.00113693
+m y t h 
+NULL ({ }) म ({ 1 }) ि ({ 2 }) थ ({ 3 4 }) 
+# Sentence pair (2871) source length 4 target length 4 alignment score : 3.80203e-05
+m y t h 
+NULL ({ }) म ({ 1 }) ि ({ 2 }) थ ({ 3 4 }) क ({ }) 
+# Sentence pair (2873) source length 5 target length 6 alignment score : 2.76359e-05
+n a g i n i 
+NULL ({ }) न ({ 1 }) ा ({ 2 }) ग ({ 3 }) ि ({ 4 }) न ({ 5 6 }) 
+# Sentence pair (2880) source length 4 target length 4 alignment score : 0.0456852
+n a n o 
+NULL ({ }) न ({ 1 }) ै ({ 2 }) न ({ 3 }) ो ({ 4 }) 
+# Sentence pair (2881) source length 5 target length 6 alignment score : 0.000151321
+n a n o h a 
+NULL ({ }) न ({ 1 }) न ({ 2 3 }) ो ({ 4 }) ह ({ 5 }) ा ({ 6 }) 
+# Sentence pair (2886) source length 6 target length 6 alignment score : 0.00478284
+n a r u t o 
+NULL ({ }) न ({ 1 }) ा ({ 2 }) र ({ 3 }) ु ({ 4 }) ट ({ 5 }) ो ({ 6 }) 
+# Sentence pair (2891) source length 5 target length 7 alignment score : 2.55162e-05
+n a t a s h a 
+NULL ({ }) न ({ 1 }) त ({ 2 3 }) ा ({ 4 }) श ({ 5 6 }) ा ({ 7 }) 
+# Sentence pair (2899) source length 4 target length 4 alignment score : 0.000746461
+n a v y 
+NULL ({ }) न ({ 1 }) े ({ 2 }) व ({ 3 }) ी ({ 4 }) 
+# Sentence pair (2907) source length 4 target length 4 alignment score : 0.000908829
+n e i n 
+NULL ({ }) न ({ 1 }) ी ({ 2 }) य ({ 3 }) न ({ 4 }) 
+# Sentence pair (2911) source length 9 target length 9 alignment score : 0.000190318
+n e n d o r o i d 
+NULL ({ }) न ({ 1 }) े ({ 2 }) ं ({ 3 }) ड ({ 4 }) ो ({ 5 }) र ({ 6 }) ॉ ({ 7 }) इ ({ 8 }) ड ({ 9 }) 
+# Sentence pair (2917) source length 4 target length 4 alignment score : 0.00226854
+n e r f 
+NULL ({ }) न ({ 1 }) र ({ 2 3 }) ् ({ }) फ ({ 4 }) 
+# Sentence pair (2918) source length 3 target length 3 alignment score : 0.0644128
+n e t 
+NULL ({ }) न ({ 1 }) े ({ 2 }) ट ({ 3 }) 
+# Sentence pair (2923) source length 4 target length 3 alignment score : 0.000144448
+n e w 
+NULL ({ }) न ({ 1 }) ् ({ }) य ({ 2 }) ू ({ 3 }) 
+# Sentence pair (2926) source length 3 target length 3 alignment score : 6.95443e-05
+n h l 
+NULL ({ }) न ({ 1 }) े ({ 2 }) ल ({ 3 }) 
+# Sentence pair (2928) source length 3 target length 3 alignment score : 0.126382
+n i b 
+NULL ({ }) न ({ 1 }) ि ({ 2 }) ब ({ 3 }) 
+# Sentence pair (2931) source length 9 target length 11 alignment score : 2.03181e-09
+n i c k e l o d e o n 
+NULL ({ }) न ({ 1 }) ि ({ 2 }) क ({ 3 4 }) ल ({ 5 6 }) ो ({ 7 }) ड ({ 8 }) ि ({ 9 }) य ({ 10 }) न ({ 11 }) 
+# Sentence pair (2945) source length 5 target length 5 alignment score : 0.00438619
+n i n j a 
+NULL ({ }) न ({ 1 }) ि ({ 2 }) न ({ 3 }) ज ({ 4 }) ा ({ 5 }) 
+# Sentence pair (2949) source length 7 target length 5 alignment score : 0.000291061
+n i t r o 
+NULL ({ }) न ({ 1 }) ा ({ }) इ ({ 2 }) ट ({ 3 }) ् ({ }) र ({ 4 }) ो ({ 5 }) 
+# Sentence pair (2961) source length 7 target length 4 alignment score : 0.000582789
+n o r m 
+NULL ({ }) न ({ 1 }) ॉ ({ 2 }) र ({ 3 }) ् ({ }) म ({ 4 }) ् ({ }) स ({ }) 
+# Sentence pair (2965) source length 6 target length 5 alignment score : 8.06906e-05
+n o r n s 
+NULL ({ }) न ({ 1 2 }) र ({ 3 }) ् ({ }) न ({ 4 }) ् ({ }) स ({ 5 }) 
+# Sentence pair (2991) source length 3 target length 4 alignment score : 0.000328426
+o g g y 
+NULL ({ }) ऑ ({ 1 }) ग ({ 2 3 }) ी ({ 4 }) 
+# Sentence pair (2994) source length 7 target length 7 alignment score : 1.52562e-05
+o k a m o r a 
+NULL ({ }) ओ ({ 1 }) क ({ 2 }) ो ({ 3 }) म ({ 4 }) ो ({ 5 }) र ({ 6 }) ा ({ 7 }) 
+# Sentence pair (3003) source length 7 target length 8 alignment score : 1.5987e-05
+o m e g a m o n 
+NULL ({ }) ओ ({ 1 }) म ({ 2 }) े ({ 3 5 }) ग ({ 4 }) म ({ 6 }) ॉ ({ 7 }) न ({ 8 }) 
+# Sentence pair (3023) source length 5 target length 6 alignment score : 2.76979e-07
+o r g u s s 
+NULL ({ }) ऑ ({ 1 }) र ({ 2 }) ् ({ 4 }) ग ({ 3 }) स ({ 5 6 }) 
+# Sentence pair (3029) source length 8 target length 7 alignment score : 4.1283e-05
+o r l e a n s 
+NULL ({ }) ऑ ({ 1 }) र ({ 2 }) ् ({ }) ल ({ 3 }) ि ({ 4 }) य ({ 5 }) ं ({ 6 }) स ({ 7 }) 
+# Sentence pair (3046) source length 6 target length 8 alignment score : 8.26207e-08
+o v e r l o a d 
+NULL ({ }) ओ ({ 1 }) व ({ 2 }) र ({ 3 4 }) ल ({ 5 }) ो ({ 6 7 }) ड ({ 8 }) 
+# Sentence pair (3053) source length 3 target length 4 alignment score : 0.000373658
+o y a n 
+NULL ({ }) ओ ({ 1 }) य ({ 2 }) न ({ 3 4 }) 
+# Sentence pair (3056) source length 13 target length 18 alignment score : 5.76802e-21
+p a c h y c e p h a l o s a u r u s 
+NULL ({ 2 }) प ({ 1 }) च ({ 3 4 }) ी ({ 5 }) स ({ 6 }) े ({ 7 }) फ ({ 8 9 }) ा ({ 10 }) ल ({ 11 }) ो ({ 12 }) स ({ 13 }) ॉ ({ 14 15 }) र ({ 16 17 }) स ({ 18 }) 
+# Sentence pair (3188) source length 8 target length 7 alignment score : 3.89082e-06
+p i r a t e s 
+NULL ({ }) प ({ 1 }) ा ({ }) इ ({ 2 }) र ({ 3 }) े ({ 4 }) ट ({ 5 }) ् ({ 6 }) स ({ 7 }) 
+# Sentence pair (3194) source length 3 target length 5 alignment score : 0.0002201
+p i t c h 
+NULL ({ }) प ({ 1 }) ि ({ 2 }) च ({ 3 4 5 }) 
+# Sentence pair (3198) source length 7 target length 5 alignment score : 1.79543e-05
+p i x a r 
+NULL ({ }) प ({ 1 }) ि ({ 2 }) क ({ }) ् ({ }) स ({ 3 }) ा ({ 4 }) र ({ 5 }) 
+# Sentence pair (3203) source length 5 target length 5 alignment score : 1.15473e-05
+p l a c e 
+NULL ({ }) प ({ 1 }) ् ({ }) ल ({ 2 }) े ({ 3 5 }) स ({ 4 }) 
+# Sentence pair (3207) source length 8 target length 6 alignment score : 0.000570752
+p l a s m a 
+NULL ({ }) प ({ 1 }) ् ({ }) ल ({ 2 }) ा ({ 3 }) ज ({ 4 }) ् ({ }) म ({ 5 }) ा ({ 6 }) 
+# Sentence pair (3224) source length 8 target length 8 alignment score : 1.71832e-08
+p l a y t i m e 
+NULL ({ }) प ({ 1 }) ् ({ }) ल ({ 2 }) े ({ 3 4 }) ट ({ 5 }) ा ({ 6 }) इ ({ 8 }) म ({ 7 }) 
+# Sentence pair (3238) source length 7 target length 7 alignment score : 0.000519785
+p o k e c o n 
+NULL ({ }) प ({ 1 }) ो ({ 2 }) क ({ 3 }) े ({ 4 }) क ({ 5 }) ॉ ({ 6 }) न ({ 7 }) 
+# Sentence pair (3245) source length 6 target length 7 alignment score : 2.32313e-05
+p o l a r i s 
+NULL ({ }) प ({ 1 }) ो ({ 2 }) ल ({ 3 4 }) र ({ 5 }) ि ({ 6 }) स ({ 7 }) 
+# Sentence pair (3251) source length 5 target length 6 alignment score : 0.00490216
+p o n c h o 
+NULL ({ }) प ({ 1 }) ो ({ 2 }) ं ({ 3 }) च ({ 4 5 }) ो ({ 6 }) 
+# Sentence pair (3256) source length 3 target length 4 alignment score : 0.0117615
+p o o h 
+NULL ({ }) प ({ 1 }) ू ({ 2 3 }) ह ({ 4 }) 
+# Sentence pair (3260) source length 5 target length 5 alignment score : 0.0154919
+p o p c o 
+NULL ({ }) प ({ 1 }) ॉ ({ 2 }) प ({ 3 }) क ({ 4 }) ो ({ 5 }) 
+# Sentence pair (3264) source length 4 target length 6 alignment score : 5.06972e-05
+p o p p e r 
+NULL ({ }) प ({ 1 }) ॉ ({ 2 }) प ({ 3 4 }) र ({ 5 6 }) 
+# Sentence pair (3266) source length 5 target length 7 alignment score : 3.26228e-09
+p o r s c h e 
+NULL ({ 7 }) प ({ 1 }) ो ({ 2 }) र ({ 3 }) ् ({ }) श ({ 4 5 6 }) 
+# Sentence pair (3274) source length 4 target length 4 alignment score : 0.00175064
+p o s e 
+NULL ({ }) प ({ 1 }) ो ({ 2 }) ज ({ 3 }) ़ ({ 4 }) 
+# Sentence pair (3277) source length 7 target length 6 alignment score : 0.00342584
+p o s k e t 
+NULL ({ }) प ({ 1 }) ो ({ 2 }) स ({ 3 }) ् ({ }) क ({ 4 }) े ({ 5 }) ट ({ 6 }) 
+# Sentence pair (3281) source length 5 target length 5 alignment score : 7.3184e-05
+p o s t s 
+NULL ({ }) प ({ 1 }) ो ({ 2 }) स ({ 3 5 }) ् ({ }) ट ({ 4 }) 
+# Sentence pair (3285) source length 7 target length 7 alignment score : 8.60884e-07
+p o t t e r a 
+NULL ({ }) प ({ 1 }) ो ({ 2 }) ट ({ 3 4 }) र ({ }) े ({ 5 }) र ({ 6 }) ा ({ 7 }) 
+# Sentence pair (3296) source length 6 target length 6 alignment score : 2.32298e-05
+p r a n a m 
+NULL ({ 5 }) प ({ 1 }) ् ({ }) र ({ 2 }) ा ({ 3 }) ण ({ 4 }) म ({ 6 }) 
+# Sentence pair (3301) source length 4 target length 3 alignment score : 0.0206957
+p r e 
+NULL ({ }) प ({ 1 }) ् ({ }) र ({ 2 }) ी ({ 3 }) 
+# Sentence pair (3304) source length 8 target length 9 alignment score : 1.21619e-11
+p r e d a c o n s 
+NULL ({ 4 }) प ({ 1 }) ् ({ }) र ({ 2 }) े ({ 3 5 }) क ({ 6 }) ॉ ({ 7 }) न ({ 8 }) स ({ 9 }) 
+# Sentence pair (3317) source length 8 target length 8 alignment score : 8.09378e-06
+p r i n c e s s 
+NULL ({ }) प ({ 1 }) ् ({ }) र ({ 2 }) ि ({ 3 }) ं ({ 4 }) स ({ 5 }) े ({ 6 }) स ({ 7 8 }) 
+# Sentence pair (3324) source length 6 target length 5 alignment score : 1.7252e-05
+p r i z e 
+NULL ({ }) प ({ 1 }) ् ({ }) र ({ 2 }) ा ({ 3 }) इ ({ 5 }) ज ({ 4 }) 
+# Sentence pair (3329) source length 10 target length 8 alignment score : 1.66698e-06
+p r o d u c t s 
+NULL ({ 5 }) प ({ 1 }) ् ({ }) र ({ 2 }) ो ({ 3 }) ड ({ 4 }) क ({ 6 }) ् ({ }) ट ({ 7 }) ् ({ }) स ({ 8 }) 
+# Sentence pair (3334) source length 10 target length 10 alignment score : 9.15376e-09
+p r o j e c t i o n 
+NULL ({ }) प ({ 1 }) ् ({ }) र ({ 2 }) ो ({ 3 }) ज ({ 4 }) े ({ 5 }) क ({ 6 }) ् ({ }) श ({ 7 8 }) न ({ 9 10 }) 
+# Sentence pair (3341) source length 7 target length 6 alignment score : 0.00254194
+p r o t e c 
+NULL ({ }) प ({ 1 }) ् ({ }) र ({ 2 }) ो ({ 3 }) ट ({ 4 }) े ({ 5 }) क ({ 6 }) 
+# Sentence pair (3347) source length 8 target length 8 alignment score : 2.06845e-07
+p r o v e n c e 
+NULL ({ }) प ({ 1 }) ् ({ }) र ({ 2 }) ो ({ 3 }) व ({ 4 }) े ({ 5 8 }) ं ({ 6 }) स ({ 7 }) 
+# Sentence pair (3364) source length 5 target length 6 alignment score : 3.66144e-07
+p u r p l e 
+NULL ({ }) प ({ 1 }) र ({ 2 3 }) ् ({ }) प ({ 4 }) ल ({ 5 6 }) 
+# Sentence pair (3371) source length 5 target length 4 alignment score : 4.73009e-06
+q u a d 
+NULL ({ }) क ({ 1 }) ् ({ 2 }) व ({ }) ा ({ 3 }) ड ({ 4 }) 
+# Sentence pair (3376) source length 5 target length 5 alignment score : 1.07118e-07
+q u i c k 
+NULL ({ }) क ({ 1 }) ् ({ 2 }) व ({ }) ि ({ 3 }) क ({ 4 5 }) 
+# Sentence pair (3383) source length 4 target length 5 alignment score : 3.03847e-05
+r a c e r 
+NULL ({ }) र ({ 1 }) े ({ 2 }) स ({ 3 }) र ({ 4 5 }) 
+# Sentence pair (3386) source length 6 target length 6 alignment score : 0.000361649
+r a c i n g 
+NULL ({ }) र ({ 1 }) े ({ 2 }) स ({ 3 }) ि ({ 4 }) ं ({ 5 }) ग ({ 6 }) 
+# Sentence pair (3390) source length 9 target length 8 alignment score : 0.000160819
+r a g n a r o k 
+NULL ({ }) र ({ 1 }) ा ({ 2 }) ग ({ 3 }) ् ({ }) न ({ 4 }) ा ({ 5 }) र ({ 6 }) ो ({ 7 }) क ({ 8 }) 
+# Sentence pair (3397) source length 4 target length 4 alignment score : 0.00524872
+r a j u 
+NULL ({ }) र ({ 1 }) ा ({ 2 }) ज ({ 3 }) ू ({ 4 }) 
+# Sentence pair (3400) source length 4 target length 4 alignment score : 0.00313926
+r a m p 
+NULL ({ }) र ({ 1 }) ै ({ 2 }) ं ({ 3 }) प ({ 4 }) 
+# Sentence pair (3404) source length 5 target length 6 alignment score : 4.55469e-07
+r a n c o r 
+NULL ({ }) र ({ 1 }) े ({ 2 }) न ({ 3 }) स ({ 4 }) र ({ 5 6 }) 
+# Sentence pair (3408) source length 5 target length 6 alignment score : 5.86337e-05
+r a n g e r 
+NULL ({ }) र ({ 1 }) े ({ 2 }) ं ({ 3 }) ज ({ 4 }) र ({ 5 6 }) 
+# Sentence pair (3413) source length 5 target length 5 alignment score : 0.0390431
+r a p i d 
+NULL ({ }) र ({ 1 }) ै ({ 2 }) प ({ 3 }) ि ({ 4 }) ड ({ 5 }) 
+# Sentence pair (3417) source length 4 target length 4 alignment score : 0.000159158
+r a r e 
+NULL ({ }) र ({ 1 }) े ({ 4 }) य ({ 2 }) र ({ 3 }) 
+# Sentence pair (3423) source length 5 target length 6 alignment score : 5.6811e-08
+r a v i n g 
+NULL ({ }) र ({ 1 2 }) ब ({ 3 }) ि ({ 4 }) ं ({ 5 }) ग ({ 6 }) 
+# Sentence pair (3426) source length 8 target length 8 alignment score : 7.13741e-11
+r a y q u a z a 
+NULL ({ }) र ({ 1 }) े ({ 2 3 }) क ({ 4 }) ् ({ 5 }) व ({ }) ा ({ 6 }) ज ({ 7 }) ा ({ 8 }) 
+# Sentence pair (3441) source length 6 target length 7 alignment score : 2.55278e-08
+r e l e a s e 
+NULL ({ }) र ({ 1 }) ि ({ 2 }) ल ({ 3 }) ी ({ 4 5 }) ज ({ 6 }) ़ ({ 7 }) 
+# Sentence pair (3449) source length 8 target length 6 alignment score : 9.26796e-07
+r e s c u e 
+NULL ({ }) र ({ 1 }) े ({ 2 }) स ({ 3 }) ् ({ }) क ({ 4 }) ् ({ }) य ({ }) ू ({ 5 6 }) 
+# Sentence pair (3456) source length 4 target length 6 alignment score : 2.68427e-06
+r e s s h a 
+NULL ({ }) र ({ 1 }) ी ({ 2 3 }) श ({ 4 5 }) ा ({ 6 }) 
+# Sentence pair (3462) source length 6 target length 7 alignment score : 3.9183e-09
+r e t u r n s 
+NULL ({ }) र ({ 1 }) ि ({ 2 }) ट ({ 3 }) र ({ 5 }) ् ({ 4 }) न ({ 6 7 }) 
+# Sentence pair (3469) source length 6 target length 3 alignment score : 3.62332e-05
+r g m 
+NULL ({ }) आ ({ }) र ({ 1 }) ज ({ 2 }) ी ({ }) ए ({ }) म ({ 3 }) 
+# Sentence pair (3472) source length 10 target length 8 alignment score : 1.38993e-11
+r i c h a r d s 
+NULL ({ }) र ({ 1 }) ि ({ 2 }) ह ({ 4 }) र ({ 6 }) ् ({ 3 }) ल ({ 5 }) ् ({ }) ड ({ 7 }) ् ({ }) स ({ 8 }) 
+# Sentence pair (3513) source length 5 target length 6 alignment score : 8.83835e-06
+r o c k e t 
+NULL ({ }) र ({ 1 }) ा ({ 2 }) क ({ 3 4 }) े ({ 5 }) ट ({ 6 }) 
+# Sentence pair (3520) source length 3 target length 3 alignment score : 0.100723
+r o d 
+NULL ({ }) र ({ 1 }) ॉ ({ 2 }) ड ({ 3 }) 
+# Sentence pair (3522) source length 6 target length 6 alignment score : 0.00593148
+r o d m a n 
+NULL ({ }) र ({ 1 }) ॉ ({ 2 }) ड ({ 3 }) म ({ 4 }) ै ({ 5 }) न ({ 6 }) 
+# Sentence pair (3528) source length 6 target length 7 alignment score : 0.00220418
+r o l l i n g 
+NULL ({ }) र ({ 1 }) ो ({ 2 }) ल ({ 3 4 }) ि ({ 5 }) ं ({ 6 }) ग ({ 7 }) 
+# Sentence pair (3544) source length 5 target length 5 alignment score : 0.00109291
+r o u n d 
+NULL ({ }) र ({ 1 }) ा ({ }) उ ({ 2 3 }) ं ({ 4 }) ड ({ 5 }) 
+# Sentence pair (3549) source length 6 target length 6 alignment score : 0.0011436
+r o y a l e 
+NULL ({ }) र ({ 1 }) ो ({ 2 }) य ({ 3 }) ा ({ 4 }) ल ({ 5 }) े ({ 6 }) 
+# Sentence pair (3555) source length 3 target length 6 alignment score : 7.20561e-08
+r u b b e r 
+NULL ({ }) र ({ 1 2 }) ब ({ 3 4 }) र ({ 5 6 }) 
+# Sentence pair (3571) source length 3 target length 6 alignment score : 2.2655e-07
+r u n n e r 
+NULL ({ }) र ({ 1 2 }) न ({ 3 4 }) र ({ 5 6 }) 
+# Sentence pair (3573) source length 4 target length 6 alignment score : 1.47916e-08
+r u n w a y 
+NULL ({ }) र ({ 1 2 }) न ({ 3 }) व ({ 4 }) े ({ 5 6 }) 
+# Sentence pair (3580) source length 7 target length 9 alignment score : 1.08481e-14
+r y o u r i c h o 
+NULL ({ }) र ({ 1 5 }) ा ({ 3 }) ई ({ 2 }) च ({ 4 8 }) ि ({ 6 }) क ({ 7 }) ो ({ 9 }) 
+# Sentence pair (3618) source length 5 target length 6 alignment score : 0.000201953
+s a m s o n 
+NULL ({ }) स ({ 1 }) ै ({ 2 }) म ({ 3 }) स ({ 4 }) न ({ 5 6 }) 
+# Sentence pair (3634) source length 4 target length 5 alignment score : 6.72846e-08
+s a r g e 
+NULL ({ }) स ({ 1 }) र ({ 2 3 }) ् ({ 5 }) ज ({ 4 }) 
+# Sentence pair (3645) source length 5 target length 5 alignment score : 6.03103e-05
+s c a l e 
+NULL ({ }) स ({ 1 }) ् ({ }) क ({ 2 }) े ({ 3 }) ल ({ 4 5 }) 
+# Sentence pair (3646) source length 8 target length 7 alignment score : 2.04791e-05
+s c a l e r s 
+NULL ({ }) स ({ 1 }) ् ({ }) क ({ 2 }) े ({ 3 }) ल ({ 4 }) र ({ 5 6 }) ् ({ }) स ({ 7 }) 
+# Sentence pair (3655) source length 5 target length 8 alignment score : 2.52453e-13
+s c h l e i c h 
+NULL ({ }) श ({ 1 2 3 }) ि ({ 6 }) ल ({ 4 }) े ({ 5 }) क ({ 7 8 }) 
+# Sentence pair (3672) source length 5 target length 5 alignment score : 0.000940875
+s c o t t 
+NULL ({ }) स ({ 1 }) ् ({ }) क ({ 2 }) ॉ ({ 3 }) ट ({ 4 5 }) 
+# Sentence pair (3678) source length 7 target length 9 alignment score : 4.39482e-13
+s c u l t u r e s 
+NULL ({ 9 }) स ({ 1 }) ् ({ }) क ({ 2 }) ल ({ 4 }) ् ({ 3 }) च ({ 5 6 }) र ({ 7 8 }) 
+# Sentence pair (3691) source length 5 target length 6 alignment score : 5.83359e-06
+s e i h o u 
+NULL ({ 6 }) स ({ 1 }) े ({ 2 }) इ ({ 3 }) ह ({ 4 }) ो ({ 5 }) 
+# Sentence pair (3698) source length 9 target length 6 alignment score : 5.44348e-09
+s e l e c t 
+NULL ({ }) स ({ 1 }) ि ({ 2 }) ल ({ 3 }) े ({ 4 }) क ({ 5 }) ् ({ }) ट ({ 6 }) े ({ }) ड ({ }) 
+# Sentence pair (3719) source length 6 target length 6 alignment score : 1.2692e-07
+s e r i e s 
+NULL ({ }) स ({ 1 }) ी ({ 2 }) र ({ 3 }) ी ({ 4 }) ज ({ 5 }) ़ ({ 6 }) 
+# Sentence pair (3728) source length 3 target length 5 alignment score : 1.74435e-07
+s e u s s 
+NULL ({ 3 }) स ({ 1 }) ी ({ 2 }) स ({ 4 5 }) 
+# Sentence pair (3735) source length 7 target length 7 alignment score : 1.22412e-05
+s h a n t o u 
+NULL ({ }) श ({ 1 2 }) ा ({ 3 }) न ({ 4 }) ् ({ }) त ({ 5 }) ा ({ }) उ ({ 6 7 }) 
+# Sentence pair (3751) source length 5 target length 7 alignment score : 0.000127869
+s h e r i f f 
+NULL ({ }) श ({ 1 2 }) े ({ 3 }) र ({ 4 }) ि ({ 5 }) फ ({ 6 7 }) 
+# Sentence pair (3758) source length 6 target length 9 alignment score : 1.85808e-13
+s h i k i j i k a 
+NULL ({ }) श ({ 1 2 }) ि ({ 3 }) ज ({ 6 }) ी ({ 5 7 }) क ({ 4 8 }) ा ({ 9 }) 
+# Sentence pair (3770) source length 7 target length 9 alignment score : 1.91964e-08
+s h i r t l e s s 
+NULL ({ }) श ({ 1 2 3 }) र ({ 4 }) ् ({ }) ट ({ 5 }) ल ({ 6 }) े ({ 7 }) स ({ 8 9 }) 
+# Sentence pair (3783) source length 7 target length 8 alignment score : 6.14571e-05
+s h o p k i n s 
+NULL ({ }) श ({ 1 2 }) ॉ ({ 3 }) प ({ 4 }) क ({ 5 }) ी ({ 6 }) ं ({ 7 }) स ({ 8 }) 
+# Sentence pair (3791) source length 3 target length 4 alignment score : 0.0148642
+s h o t 
+NULL ({ }) श ({ 1 2 }) ॉ ({ 3 }) ट ({ 4 }) 
+# Sentence pair (3794) source length 4 target length 7 alignment score : 3.87811e-10
+s h o u j y o 
+NULL ({ 6 }) श ({ 1 2 }) ौ ({ 3 4 }) ज ({ 5 }) ो ({ 7 }) 
+# Sentence pair (3800) source length 6 target length 8 alignment score : 1.88249e-07
+s h r e d d e r 
+NULL ({ }) श ({ 1 2 }) ् ({ }) र ({ 3 }) े ({ 4 }) ड ({ 5 6 }) र ({ 7 8 }) 
+# Sentence pair (3816) source length 7 target length 6 alignment score : 0.000407183
+s i l e n t 
+NULL ({ }) स ({ 1 }) ा ({ }) इ ({ 2 }) ल ({ 3 }) े ({ 4 }) ं ({ 5 }) ट ({ 6 }) 
+# Sentence pair (3824) source length 5 target length 7 alignment score : 5.9991e-07
+s i m m o n s 
+NULL ({ 5 }) स ({ 1 }) ि ({ 2 }) म ({ 3 4 }) ं ({ 6 }) स ({ 7 }) 
+# Sentence pair (3848) source length 5 target length 5 alignment score : 4.43275e-05
+s k e l e 
+NULL ({ }) स ({ 1 }) ् ({ }) क ({ 2 }) ी ({ 3 }) ल ({ 4 5 }) 
+# Sentence pair (3855) source length 7 target length 6 alignment score : 1.3287e-05
+s k o r n e 
+NULL ({ }) स ({ 1 }) ् ({ }) क ({ 2 }) ो ({ 3 }) र ({ 4 }) ् ({ }) न ({ 5 6 }) 
+# Sentence pair (3863) source length 9 target length 9 alignment score : 9.19719e-11
+s k y w a l k e r 
+NULL ({ }) स ({ 1 }) ् ({ }) क ({ 2 }) ा ({ 5 }) ई ({ 3 }) व ({ 4 }) ॉ ({ 6 }) क ({ 7 }) र ({ 8 9 }) 
+# Sentence pair (3871) source length 6 target length 7 alignment score : 1.21869e-05
+s l a s h e r 
+NULL ({ }) स ({ 1 }) ् ({ }) ल ({ 2 }) े ({ 3 }) श ({ 4 5 }) र ({ 6 7 }) 
+# Sentence pair (3878) source length 6 target length 6 alignment score : 0.000617015
+s l i m e r 
+NULL ({ }) स ({ 1 }) ् ({ }) ल ({ 2 }) ि ({ 3 }) म ({ 4 }) र ({ 5 6 }) 
+# Sentence pair (3884) source length 9 target length 10 alignment score : 2.87851e-06
+s m a l l v i l l e 
+NULL ({ }) स ({ 1 }) ् ({ }) म ({ 2 }) ॉ ({ 3 }) ल ({ 4 5 }) व ({ 6 }) ि ({ 7 }) ल ({ 8 9 }) े ({ 10 }) 
+# Sentence pair (3897) source length 5 target length 5 alignment score : 1.23912e-05
+s m o k e 
+NULL ({ }) स ({ 1 }) ् ({ 5 }) म ({ 2 }) ो ({ 3 }) क ({ 4 }) 
+# Sentence pair (3904) source length 5 target length 5 alignment score : 3.19383e-06
+s n a r l 
+NULL ({ }) स ({ 1 }) ् ({ }) न ({ 2 }) ा ({ 3 }) र ({ 4 5 }) 
+# Sentence pair (3914) source length 7 target length 7 alignment score : 7.06612e-06
+s n o w m a n 
+NULL ({ }) स ({ 1 }) ् ({ }) न ({ 2 }) ो ({ 3 4 }) म ({ 5 }) ै ({ 6 }) न ({ 7 }) 
+# Sentence pair (3922) source length 5 target length 4 alignment score : 0.0428778
+s o f t 
+NULL ({ }) स ({ 1 }) ॉ ({ 2 }) फ ({ 3 }) ् ({ }) ट ({ 4 }) 
+# Sentence pair (3925) source length 6 target length 6 alignment score : 6.23999e-05
+s o f u b i 
+NULL ({ }) स ({ 1 }) ो ({ 2 }) फ ({ 3 }) ो ({ 4 }) ब ({ 5 }) ी ({ 6 }) 
+# Sentence pair (3933) source length 6 target length 6 alignment score : 0.00599274
+s o n i c o 
+NULL ({ }) स ({ 1 }) ो ({ 2 }) न ({ 3 }) ि ({ 4 }) क ({ 5 }) ो ({ 6 }) 
+# Sentence pair (3959) source length 5 target length 6 alignment score : 9.49703e-05
+s p e e c h 
+NULL ({ }) स ({ 1 }) ् ({ }) प ({ 2 }) ी ({ 3 4 }) च ({ 5 6 }) 
+# Sentence pair (3963) source length 8 target length 8 alignment score : 0.000496603
+s p e l l m a n 
+NULL ({ }) स ({ 1 }) ् ({ }) प ({ 2 }) े ({ 3 }) ल ({ 4 5 }) म ({ 6 }) ै ({ 7 }) न ({ 8 }) 
+# Sentence pair (3967) source length 10 target length 9 alignment score : 5.20942e-06
+s p i d e r m a n 
+NULL ({ }) स ({ 1 }) ् ({ }) प ({ 2 }) ा ({ }) इ ({ 3 }) ड ({ 4 }) र ({ 5 6 }) म ({ 7 }) ै ({ 8 }) न ({ 9 }) 
+# Sentence pair (3980) source length 9 target length 9 alignment score : 6.59422e-10
+s p o t l i g h t 
+NULL ({ 8 }) स ({ 1 }) ् ({ }) प ({ 2 }) ॉ ({ 3 }) ट ({ 4 }) ल ({ 5 }) ा ({ 6 }) इ ({ 7 }) ट ({ 9 }) 
+# Sentence pair (3987) source length 5 target length 3 alignment score : 0.00223077
+s p y 
+NULL ({ }) स ({ 1 }) ् ({ }) प ({ 2 }) ा ({ }) ई ({ 3 }) 
+# Sentence pair (3988) source length 7 target length 5 alignment score : 1.7294e-06
+s q u a d 
+NULL ({ }) स ({ 1 }) ् ({ }) क ({ 2 }) ् ({ 3 }) व ({ }) ा ({ 4 }) ड ({ 5 }) 
+# Sentence pair (3990) source length 8 target length 6 alignment score : 7.35331e-09
+s q u a r e 
+NULL ({ }) स ({ 1 }) ् ({ }) क ({ 2 }) ् ({ 3 }) व ({ }) ा ({ 4 }) य ({ }) र ({ 5 6 }) 
+# Sentence pair (3997) source length 9 target length 8 alignment score : 1.88911e-12
+s q u i r t l e 
+NULL ({ }) स ({ 1 }) ् ({ }) क ({ 2 }) ् ({ 3 4 }) व ({ }) र ({ 5 }) ् ({ }) ट ({ 6 }) ल ({ 7 8 }) 
+# Sentence pair (4003) source length 5 target length 5 alignment score : 6.17042e-05
+s t a g e 
+NULL ({ }) स ({ 1 }) ् ({ }) ट ({ 2 }) े ({ 3 5 }) ज ({ 4 }) 
+# Sentence pair (4010) source length 5 target length 4 alignment score : 0.012248
+s t a n 
+NULL ({ }) स ({ 1 }) ् ({ }) ट ({ 2 }) े ({ 3 }) न ({ 4 }) 
+# Sentence pair (4011) source length 6 target length 5 alignment score : 0.0488643
+s t a n d 
+NULL ({ }) स ({ 1 }) ् ({ }) ट ({ 2 }) ै ({ 3 }) ं ({ 4 }) ड ({ 5 }) 
+# Sentence pair (4014) source length 9 target length 6 alignment score : 0.0037328
+s t a n t z 
+NULL ({ }) स ({ 1 }) ् ({ }) ट ({ 2 }) ै ({ 3 }) ं ({ 4 }) ट ({ 5 }) ् ({ }) ज ({ 6 }) ़ ({ }) 
+# Sentence pair (4020) source length 9 target length 8 alignment score : 5.98212e-06
+s t a r d u s t 
+NULL ({ }) स ({ 1 }) ् ({ }) ट ({ 2 }) ा ({ 3 }) र ({ 4 }) ड ({ 5 }) स ({ 7 }) ् ({ 6 }) ट ({ 8 }) 
+# Sentence pair (4026) source length 7 target length 5 alignment score : 0.0100769
+s t a r s 
+NULL ({ }) स ({ 1 }) ् ({ }) ट ({ 2 }) ा ({ 3 }) र ({ 4 }) ् ({ }) स ({ 5 }) 
+# Sentence pair (4032) source length 8 target length 8 alignment score : 2.34622e-06
+s t a r w a r s 
+NULL ({ }) स ({ 1 }) ् ({ }) ट ({ 2 }) ा ({ 3 }) र ({ 4 }) व ({ 5 }) ा ({ 6 }) र ({ 7 8 }) 
+# Sentence pair (4038) source length 8 target length 6 alignment score : 4.25521e-07
+s t a t u e 
+NULL ({ }) स ({ 1 }) ् ({ }) ट ({ 2 }) ै ({ 3 }) च ({ 4 5 }) ् ({ }) य ({ 6 }) ू ({ }) 
+# Sentence pair (4044) source length 8 target length 8 alignment score : 2.65653e-06
+s t e e l e r s 
+NULL ({ }) स ({ 1 }) ् ({ }) ट ({ 2 }) ी ({ 3 4 }) ल ({ 5 }) र ({ 6 7 }) ् ({ }) स ({ 8 }) 
+# Sentence pair (4052) source length 5 target length 5 alignment score : 0.000166351
+s t e v e 
+NULL ({ }) स ({ 1 }) ् ({ }) ट ({ 2 }) ी ({ 3 5 }) व ({ 4 }) 
+# Sentence pair (4055) source length 6 target length 7 alignment score : 1.93044e-05
+s t i c k e r 
+NULL ({ }) स ({ 1 }) ् ({ }) ट ({ 2 }) ि ({ 3 }) क ({ 4 5 }) र ({ 6 7 }) 
+# Sentence pair (4060) source length 8 target length 7 alignment score : 2.42876e-05
+s t i k b o t 
+NULL ({ }) स ({ 1 }) ् ({ }) ट ({ 2 }) ि ({ 3 }) क ({ 4 }) ो ({ 6 }) ब ({ 5 }) ट ({ 7 }) 
+# Sentence pair (4062) source length 10 target length 8 alignment score : 0.000917139
+s t i l e t t o 
+NULL ({ }) स ({ 1 }) ् ({ }) ट ({ 2 }) ि ({ 3 }) ल ({ 4 }) े ({ 5 }) ट ({ 6 }) ् ({ }) ट ({ 7 }) ो ({ 8 }) 
+# Sentence pair (4070) source length 7 target length 5 alignment score : 0.0146256
+s t o r m 
+NULL ({ }) स ({ 1 }) ् ({ }) ट ({ 2 }) ॉ ({ 3 }) र ({ 4 }) ् ({ }) म ({ 5 }) 
+# Sentence pair (4071) source length 13 target length 12 alignment score : 2.37648e-08
+s t o r m b r e a k e r 
+NULL ({ }) स ({ 1 }) ् ({ }) ट ({ 2 }) ॉ ({ 3 }) र ({ 4 }) ् ({ }) म ({ 5 }) ब ({ 6 }) ् ({ }) र ({ 7 }) े ({ 8 9 }) क ({ 10 }) र ({ 11 12 }) 
+# Sentence pair (4098) source length 6 target length 6 alignment score : 1.00379e-08
+s t y l e s 
+NULL ({ }) स ({ 1 }) ् ({ }) ट ({ 2 }) ा ({ 3 }) इ ({ 5 }) ल ({ 4 6 }) 
+# Sentence pair (4103) source length 5 target length 7 alignment score : 6.72765e-10
+s u c t i o n 
+NULL ({ }) स ({ 1 }) क ({ 2 3 }) ् ({ }) श ({ 4 5 }) न ({ 6 7 }) 
+# Sentence pair (4112) source length 3 target length 6 alignment score : 3.03106e-08
+s u m m e r 
+NULL ({ }) स ({ 1 2 }) म ({ 3 4 }) र ({ 5 6 }) 
+# Sentence pair (4117) source length 4 target length 5 alignment score : 0.00130946
+s u p e r 
+NULL ({ }) स ({ 1 }) ु ({ 2 }) प ({ 3 }) र ({ 4 5 }) 
+# Sentence pair (4124) source length 7 target length 8 alignment score : 0.00011546
+s u p e r m a n 
+NULL ({ }) स ({ 1 }) ु ({ 2 }) प ({ 3 }) र ({ 4 5 }) म ({ 6 }) ै ({ 7 }) न ({ 8 }) 
+# Sentence pair (4128) source length 3 target length 7 alignment score : 3.37538e-15
+s u p r e m e 
+NULL ({ 2 7 }) प ({ 1 3 }) र ({ 4 5 }) म ({ 6 }) 
+# Sentence pair (4135) source length 5 target length 5 alignment score : 0.00267795
+s w a n n 
+NULL ({ }) स ({ 1 }) ् ({ }) व ({ 2 }) ा ({ 3 }) न ({ 4 5 }) 
+# Sentence pair (4151) source length 4 target length 5 alignment score : 1.21518e-06
+t a i g a 
+NULL ({ }) ट ({ 1 }) ै ({ 2 3 }) ग ({ 4 }) ा ({ 5 }) 
+# Sentence pair (4154) source length 6 target length 8 alignment score : 2.26731e-08
+t a i l g a t e 
+NULL ({ }) ट ({ 1 }) े ({ 2 3 }) ल ({ 4 }) ग ({ 5 }) े ({ 6 8 }) ट ({ 7 }) 
+# Sentence pair (4160) source length 5 target length 6 alignment score : 1.05861e-05
+t a k a r a 
+NULL ({ }) ट ({ 1 }) ा ({ 2 }) क ({ 3 }) र ({ 4 5 }) ा ({ 6 }) 
+# Sentence pair (4168) source length 6 target length 6 alignment score : 3.0441e-07
+t a l o n s 
+NULL ({ }) ट ({ 1 }) े ({ 2 }) ल ({ 3 }) े ({ 4 }) ं ({ 5 }) ट ({ 6 }) 
+# Sentence pair (4175) source length 5 target length 8 alignment score : 1.58069e-07
+t a m a s h i i 
+NULL ({ }) त ({ 1 2 }) म ({ 3 }) ा ({ 4 }) श ({ 5 6 }) ी ({ 7 8 }) 
+# Sentence pair (4192) source length 6 target length 6 alignment score : 0.00551735
+t a t o b a 
+NULL ({ }) त ({ 1 }) ा ({ 2 }) त ({ 3 }) ो ({ 4 }) ब ({ 5 }) ा ({ 6 }) 
+# Sentence pair (4204) source length 3 target length 3 alignment score : 0.0348224
+t e k 
+NULL ({ }) ट ({ 1 }) े ({ 2 }) क ({ 3 }) 
+# Sentence pair (4210) source length 9 target length 10 alignment score : 5.67793e-10
+t e l e v i s i o n 
+NULL ({ }) ट ({ 1 }) े ({ 2 }) ल ({ 3 }) ी ({ 4 }) व ({ 5 }) ि ({ 6 }) ज ({ 7 }) ़ ({ 8 }) न ({ 9 10 }) 
+# Sentence pair (4218) source length 9 target length 10 alignment score : 2.52616e-08
+t e r m i n a t o r 
+NULL ({ }) ट ({ 1 }) र ({ 2 3 }) ् ({ }) म ({ 4 }) ि ({ 5 }) न ({ 6 }) े ({ 7 }) ट ({ 8 }) र ({ 9 10 }) 
+# Sentence pair (4251) source length 5 target length 6 alignment score : 0.00416596
+t h o r i s 
+NULL ({ }) थ ({ 1 2 }) ो ({ 3 }) र ({ 4 }) ि ({ 5 }) स ({ 6 }) 
+# Sentence pair (4254) source length 7 target length 7 alignment score : 2.38927e-05
+t h r o n e s 
+NULL ({ }) थ ({ 1 2 }) ् ({ }) र ({ 3 }) ो ({ 4 }) न ({ 5 }) ् ({ 6 }) स ({ 7 }) 
+# Sentence pair (4274) source length 7 target length 7 alignment score : 3.95824e-05
+t i m o t h y 
+NULL ({ }) ट ({ 1 }) ा ({ }) इ ({ 2 }) म ({ 3 }) ो ({ 4 }) थ ({ 5 6 }) ी ({ 7 }) 
+# Sentence pair (4281) source length 5 target length 5 alignment score : 0.000103623
+t i t a n 
+NULL ({ }) ट ({ 1 }) ा ({ 4 }) इ ({ 2 }) ट ({ 3 }) न ({ 5 }) 
+# Sentence pair (4288) source length 3 target length 4 alignment score : 0.00164391
+t o a d 
+NULL ({ }) ट ({ 1 }) ॉ ({ 2 3 }) ड ({ 4 }) 
+# Sentence pair (4293) source length 4 target length 4 alignment score : 0.0272613
+t o f u 
+NULL ({ }) ट ({ 1 }) ो ({ 2 }) फ ({ 3 }) ू ({ 4 }) 
+# Sentence pair (4295) source length 4 target length 4 alignment score : 0.0170702
+t o j o 
+NULL ({ }) त ({ 1 }) ो ({ 2 }) ज ({ 3 }) ो ({ 4 }) 
+# Sentence pair (4296) source length 8 target length 9 alignment score : 1.34974e-09
+t o k k y u g e r 
+NULL ({ }) ट ({ 1 }) ो ({ 2 }) क ({ 3 4 }) ि ({ 5 }) ग ({ 7 }) ु ({ 6 }) ए ({ 8 }) र ({ 9 }) 
+# Sentence pair (4332) source length 7 target length 6 alignment score : 2.32811e-06
+t o u m a x 
+NULL ({ }) ट ({ 1 }) ू ({ 2 3 }) म ({ 4 }) ै ({ 5 }) क ({ }) ् ({ }) स ({ 6 }) 
+# Sentence pair (4337) source length 6 target length 9 alignment score : 1.19199e-12
+t o w a s h i n e 
+NULL ({ }) ट ({ 1 }) ो ({ 2 3 }) श ({ 5 6 }) ा ({ 4 }) इ ({ 7 9 }) न ({ 8 }) 
+# Sentence pair (4345) source length 8 target length 7 alignment score : 1.51205e-09
+t o y n a m i 
+NULL ({ }) ड ({ 1 }) ा ({ 2 }) य ({ 3 }) न ({ 4 }) े ({ 5 }) म ({ 6 }) ि ({ 7 }) क ({ }) 
+# Sentence pair (4348) source length 4 target length 4 alignment score : 0.00311297
+t o y s 
+NULL ({ }) ट ({ 1 }) ॉ ({ 2 }) य ({ 3 }) ज ({ 4 }) 
+# Sentence pair (4349) source length 4 target length 4 alignment score : 0.0186471
+t o y s 
+NULL ({ }) ट ({ 1 }) ॉ ({ 2 }) य ({ 3 }) स ({ 4 }) 
+# Sentence pair (4351) source length 16 target length 19 alignment score : 3.55748e-32
+t o y s p a r a s a u r o l o p h u s 
+NULL ({ 8 18 }) ख ({ 1 }) ि ({ }) ल ({ }) ौ ({ }) न ({ 2 }) े ({ 3 }) प ({ 4 5 }) र ({ 6 7 }) स ({ 9 }) ौ ({ 10 11 }) र ({ 12 }) ो ({ 13 }) ल ({ 14 }) ो ({ 15 }) फ ({ 16 17 }) स ({ 19 }) 
+# Sentence pair (4373) source length 12 target length 12 alignment score : 2.56189e-09
+t r a n s f o r m e r s 
+NULL ({ }) ट ({ 1 }) ् ({ }) र ({ 2 }) ा ({ 3 }) ं ({ 4 }) स ({ 5 12 }) फ ({ 6 }) ॉ ({ 7 }) र ({ 8 }) ् ({ }) म ({ 9 }) र ({ 10 11 }) 
+# Sentence pair (4391) source length 14 target length 12 alignment score : 8.29505e-07
+t r e n d m a s t e r s 
+NULL ({ }) ट ({ 1 }) ् ({ }) र ({ 2 }) े ({ 3 }) ं ({ 4 }) ड ({ 5 }) म ({ 6 }) ा ({ 7 }) स ({ 8 }) ् ({ }) ट ({ 9 }) र ({ 10 11 }) ् ({ }) स ({ 12 }) 
+# Sentence pair (4400) source length 7 target length 4 alignment score : 2.80383e-05
+t r i x 
+NULL ({ }) ट ({ 1 }) ् ({ }) र ({ 2 }) ि ({ 3 }) क ({ }) ् ({ }) स ({ 4 }) 
+# Sentence pair (4402) source length 5 target length 4 alignment score : 0.0194851
+t r o n 
+NULL ({ }) ट ({ 1 }) ् ({ }) र ({ 2 }) ॉ ({ 3 }) न ({ 4 }) 
+# Sentence pair (4404) source length 8 target length 7 alignment score : 5.98274e-07
+t r o o p e r 
+NULL ({ }) ट ({ 1 }) ् ({ }) र ({ 2 }) ू ({ 3 4 }) प ({ 5 }) र ({ 6 7 }) ् ({ }) स ({ }) 
+# Sentence pair (4411) source length 5 target length 4 alignment score : 0.00853093
+t r o y 
+NULL ({ }) ट ({ 1 }) ् ({ }) र ({ 2 }) ॉ ({ 3 }) य ({ 4 }) 
+# Sentence pair (4420) source length 7 target length 6 alignment score : 1.21261e-06
+t u n e u p 
+NULL ({ }) ट ({ 1 }) ् ({ }) य ({ }) ू ({ 2 }) न ({ 3 4 }) अ ({ 5 }) प ({ 6 }) 
+# Sentence pair (4454) source length 6 target length 6 alignment score : 1.11993e-07
+u l t r o n 
+NULL ({ }) ए ({ 1 }) ल ({ 2 }) े ({ 3 }) र ({ 4 }) ॉ ({ 5 }) न ({ 6 }) 
+# Sentence pair (4457) source length 6 target length 9 alignment score : 1.1081e-14
+u n c h a r t e d 
+NULL ({ 9 }) अ ({ 1 }) न ({ 2 }) च ({ 3 4 }) ा ({ 5 }) ह ({ 6 }) े ({ 7 8 }) 
+# Sentence pair (4464) source length 9 target length 6 alignment score : 4.09014e-07
+u n i s e x 
+NULL ({ }) य ({ }) ू ({ 1 }) न ({ 2 }) ि ({ 3 }) स ({ 4 }) े ({ 5 }) क ({ }) ् ({ }) स ({ 6 }) 
+# Sentence pair (4469) source length 5 target length 7 alignment score : 2.76065e-15
+u n k n o w n 
+NULL ({ }) अ ({ 1 }) न ({ 2 }) ज ({ 3 }) ा ({ }) न ({ 4 5 6 7 }) 
+# Sentence pair (4474) source length 5 target length 6 alignment score : 7.51239e-05
+u n l o c k 
+NULL ({ }) अ ({ 1 }) न ({ 2 }) ल ({ 3 }) ॉ ({ 4 }) क ({ 5 6 }) 
+# Sentence pair (4477) source length 5 target length 4 alignment score : 0.00486764
+u n s c 
+NULL ({ }) अ ({ 1 }) न ({ 2 }) स ({ 3 }) ् ({ }) क ({ 4 }) 
+# Sentence pair (4500) source length 9 target length 8 alignment score : 1.18897e-05
+v a m p i d e r 
+NULL ({ }) व ({ 1 }) ै ({ 2 }) म ({ 3 }) ् ({ }) प ({ 4 }) ा ({ }) इ ({ 5 }) ड ({ 6 }) र ({ 7 8 }) 
+# Sentence pair (4518) source length 8 target length 7 alignment score : 2.66066e-10
+v e h i c o n 
+NULL ({ }) व ({ 1 }) ् ({ 2 }) ह ({ 3 }) ी ({ 4 }) क ({ 5 }) ल ({ 6 }) ् ({ }) स ({ 7 }) 
+# Sentence pair (4525) source length 5 target length 9 alignment score : 1.67704e-15
+v e n o m p o o l 
+NULL ({ }) व ({ 1 }) ि ({ 2 }) ष ({ 3 6 }) म ({ 5 }) ो ({ 4 7 8 9 }) 
+# Sentence pair (4529) source length 4 target length 3 alignment score : 3.48678e-05
+v e r 
+NULL ({ }) व ({ 1 }) र ({ 2 3 }) ् ({ }) ग ({ }) 
+# Sentence pair (4534) source length 6 target length 5 alignment score : 0.000151504
+v i d e o 
+NULL ({ }) व ({ 1 }) ी ({ 2 }) ड ({ 3 }) ि ({ 4 }) य ({ }) ो ({ 5 }) 
+# Sentence pair (4541) source length 5 target length 8 alignment score : 6.63262e-09
+v i l l a i n s 
+NULL ({ }) व ({ 1 }) ि ({ 2 }) ल ({ 3 4 }) े ({ 5 6 }) न ({ 7 8 }) 
+# Sentence pair (4546) source length 6 target length 7 alignment score : 1.18557e-05
+v i n t a g e 
+NULL ({ }) व ({ 1 }) ि ({ 2 }) ं ({ 3 }) ट ({ 4 }) े ({ 5 7 }) ज ({ 6 }) 
+# Sentence pair (4547) source length 6 target length 5 alignment score : 0.000100652
+v i n y l 
+NULL ({ }) व ({ 1 }) ि ({ 2 }) न ({ 3 }) ा ({ }) इ ({ 4 }) ल ({ 5 }) 
+# Sentence pair (4551) source length 6 target length 6 alignment score : 9.56378e-06
+v i o l e t 
+NULL ({ }) व ({ 1 }) ा ({ 2 }) य ({ 3 }) ल ({ 4 }) े ({ 5 }) ट ({ 6 }) 
+# Sentence pair (4554) source length 5 target length 6 alignment score : 1.71991e-07
+v i s i o n 
+NULL ({ }) व ({ 1 }) ि ({ 2 }) ज ({ 3 }) ़ ({ 4 }) न ({ 5 6 }) 
+# Sentence pair (4557) source length 7 target length 6 alignment score : 0.000468741
+v i v i n g 
+NULL ({ }) व ({ 1 }) ा ({ }) इ ({ 2 }) व ({ 3 }) ि ({ 4 }) ं ({ 5 }) ग ({ 6 }) 
+# Sentence pair (4572) source length 4 target length 5 alignment score : 0.00010224
+w a c k y 
+NULL ({ }) व ({ 1 }) ा ({ 2 }) क ({ 3 4 }) ी ({ 5 }) 
+# Sentence pair (4573) source length 4 target length 5 alignment score : 1.42867e-06
+w a c k y 
+NULL ({ }) व ({ 1 }) ि ({ 2 }) क ({ 3 4 }) ी ({ 5 }) 
+# Sentence pair (4591) source length 3 target length 3 alignment score : 0.00844611
+w a r 
+NULL ({ }) व ({ 1 }) ॉ ({ 2 }) र ({ 3 }) 
+# Sentence pair (4601) source length 5 target length 4 alignment score : 0.00234203
+w a r s 
+NULL ({ }) व ({ 1 }) ॉ ({ 2 }) र ({ 3 }) ् ({ }) स ({ 4 }) 
+# Sentence pair (4605) source length 4 target length 5 alignment score : 0.000190783
+w a t e r 
+NULL ({ }) व ({ 1 }) ॉ ({ 2 }) ट ({ 3 }) र ({ 4 5 }) 
+# Sentence pair (4608) source length 3 target length 4 alignment score : 0.000290312
+w a v e 
+NULL ({ }) व ({ 1 }) े ({ 2 4 }) व ({ 3 }) 
+# Sentence pair (4610) source length 3 target length 7 alignment score : 5.90691e-15
+w a y n e ' s 
+NULL ({ 6 }) व ({ 1 }) े ({ 2 3 }) न ({ 4 5 7 }) 
+# Sentence pair (4611) source length 3 target length 7 alignment score : 1.59132e-17
+w e a t h e r 
+NULL ({ 4 5 }) व ({ 1 2 }) ॉ ({ 3 }) र ({ 6 7 }) 
+# Sentence pair (4615) source length 6 target length 6 alignment score : 0.000520882
+w e n a s i 
+NULL ({ }) व ({ 1 }) े ({ 2 }) न ({ 3 }) ा ({ 4 }) स ({ 5 }) ी ({ 6 }) 
+# Sentence pair (4617) source length 8 target length 7 alignment score : 4.33769e-05
+w e s t e r n 
+NULL ({ }) व ({ 1 }) े ({ 2 }) स ({ 3 }) ् ({ }) ट ({ 4 }) र ({ 5 6 }) ् ({ }) न ({ 7 }) 
+# Sentence pair (4620) source length 5 target length 6 alignment score : 3.43587e-08
+w h a l e s 
+NULL ({ }) व ({ 1 }) ् ({ }) ह ({ 2 }) े ({ 3 }) ल ({ 4 5 6 }) 
+# Sentence pair (4623) source length 6 target length 5 alignment score : 2.14752e-06
+w h i r l 
+NULL ({ }) व ({ 1 }) ् ({ }) ह ({ 2 }) र ({ 4 }) ् ({ 3 }) ल ({ 5 }) 
+# Sentence pair (4626) source length 12 target length 11 alignment score : 8.90137e-08
+w h i t e b a t m a n 
+NULL ({ }) व ({ 1 }) ् ({ }) ह ({ 2 }) ा ({ 3 }) इ ({ 5 }) ट ({ 4 }) ब ({ 6 }) ै ({ 7 }) ट ({ 8 }) म ({ 9 }) ै ({ 10 }) न ({ 11 }) 
+# Sentence pair (4663) source length 4 target length 5 alignment score : 5.65654e-05
+w o m a n 
+NULL ({ }) व ({ 1 }) ु ({ 2 }) म ({ 3 }) न ({ 4 5 }) 
+# Sentence pair (4668) source length 3 target length 4 alignment score : 0.000178393
+w o o d 
+NULL ({ }) व ({ 1 }) ु ({ 2 3 }) ड ({ 4 }) 
+# Sentence pair (4671) source length 4 target length 6 alignment score : 3.47118e-07
+w o o d e n 
+NULL ({ }) व ({ 1 }) ु ({ 2 3 }) ड ({ 4 }) न ({ 5 6 }) 
+# Sentence pair (4675) source length 7 target length 8 alignment score : 2.19467e-07
+w o r k s h o p 
+NULL ({ }) व ({ 1 }) र ({ 2 3 }) ् ({ }) क ({ 4 }) श ({ 5 6 }) ॉ ({ 7 }) प ({ 8 }) 
+# Sentence pair (4682) source length 4 target length 7 alignment score : 1.2746e-11
+w r e s t l e 
+NULL ({ }) र ({ 1 2 }) े ({ 3 }) स ({ 4 5 }) ल ({ 6 7 }) 
+# Sentence pair (4686) source length 8 target length 9 alignment score : 3.82476e-10
+w r e s t l i n g 
+NULL ({ }) र ({ 1 2 }) े ({ 3 }) स ({ 4 }) ् ({ 5 }) ल ({ 6 }) ि ({ 7 }) ं ({ 8 }) ग ({ 9 }) 
+# Sentence pair (4689) source length 9 target length 6 alignment score : 6.97555e-10
+x f o r c e 
+NULL ({ }) ए ({ }) क ({ 1 }) ् ({ }) स ({ }) फ ({ 2 }) ो ({ 3 }) र ({ 4 }) ् ({ 6 }) स ({ 5 }) 
+# Sentence pair (4693) source length 6 target length 6 alignment score : 0.00372549
+y a m a m a 
+NULL ({ }) य ({ 1 }) ा ({ 2 }) म ({ 3 }) ा ({ 4 }) म ({ 5 }) ा ({ 6 }) 
+# Sentence pair (4729) source length 7 target length 7 alignment score : 4.85015e-08
+z e h n d e r 
+NULL ({ }) ज ({ 1 }) ़ ({ 3 }) े ({ 2 }) न ({ 4 }) ् ({ }) ड ({ 5 }) र ({ 6 7 }) 
+# Sentence pair (4757) source length 5 target length 4 alignment score : 0.00579123
+z u m a 
+NULL ({ }) ज ({ 1 }) ़ ({ }) ू ({ 2 }) म ({ 3 }) ा ({ 4 }) 
