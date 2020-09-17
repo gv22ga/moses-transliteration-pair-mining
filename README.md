@@ -59,7 +59,7 @@ This step will be quick for the provided sample. But it will take over ~1 hour f
 ```
 ./mosesdecoder/scripts/Transliteration/train-transliteration-module.pl --corpus-f /home/gaurav.g/moses/sample/corpus/clean.en --corpus-e /home/gaurav.g/moses/sample/corpus/clean.hi --alignment /home/gaurav.g/moses/sample/model/aligned.grow-diag-final --moses-src-dir mosesdecoder/ --external-bin-dir external_bin/ --input-extension en --output-extension hi  --out-dir sample/transliteration_model --srilm-dir .
 ```
-For some parameters, you need to provide the full paths, otherwise it will throw errors.
+For some parameters, you need to provide the full paths, otherwise it will throw errors. This command will actually end with an error message `sh: 1: ./ngram-count: not found` since we haven't properly configured `srilm`, but it doesn't affect this use case.
 
 ## Phew! That's it
 You will find the transliteration pairs here `sample/transliteration_model/1-1.en-hi.pair-probs`. This file also has a score value associated with each pair. <b> Score of 0 is good, 1 is bad </b>. A threshold value of `0.001` works good to filter the correct transliteration pairs.
